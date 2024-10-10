@@ -1,0 +1,3757 @@
+{
+    "response_code": 0,
+    "vocabulary_quiz": [
+        {
+          "question": "The definition of view is:",
+          "correct_answer": "To look at or see something",
+          "incorrect_answers": [
+            "To hear a sound clearly",
+            "To touch a surface gently",
+            "To smell a strong odor"
+          ]
+        },
+        {
+          "question": "The definition of rock is:",
+          "correct_answer": "A hard, solid material found in the earth",
+          "incorrect_answers": [
+            "A soft, fluffy material used in pillows",
+            "A liquid that flows easily",
+            "A gas that floats in the air"
+          ]
+        },
+        {
+          "question": "The definition of class is:",
+          "correct_answer": "A group of students taught together",
+          "incorrect_answers": [
+            "A type of building in a school",
+            "A book used for teaching",
+            "A grade given on a test"
+          ]
+        },
+        {
+          "question": "The definition of dark is:",
+          "correct_answer": "Having very little or no light",
+          "incorrect_answers": [
+            "Having a strong color",
+            "Being very cold",
+            "Making a loud noise"
+          ]
+        },
+        {
+          "question": "The definition of floor is:",
+          "correct_answer": "The surface you walk on inside a building",
+          "incorrect_answers": [
+            "The top part of a room",
+            "The side of a building",
+            "The entrance to a house"
+          ]
+        },
+        {
+          "question": "The definition of sock is:",
+          "correct_answer": "A piece of clothing worn on the foot",
+          "incorrect_answers": [
+            "A type of shoe",
+            "A glove for the hand",
+            "A hat for the head"
+          ]
+        },
+        {
+          "question": "The definition of patient is:",
+          "correct_answer": "Able to wait calmly for a long time",
+          "incorrect_answers": [
+            "Moving very quickly",
+            "Speaking very loudly",
+            "Eating very slowly"
+          ]
+        },
+        {
+          "question": "The definition of samples is:",
+          "correct_answer": "Small amounts of something to test or try",
+          "incorrect_answers": [
+            "Large quantities of products",
+            "Written examples in a book",
+            "Pictures in an advertisement"
+          ]
+        },
+        {
+          "question": "The definition of ripe is:",
+          "correct_answer": "Ready to be eaten or used",
+          "incorrect_answers": [
+            "Too old to be eaten",
+            "Not yet planted in the ground",
+            "Cooked for a long time"
+          ]
+        },
+        {
+          "question": "The definition of blinded is:",
+          "correct_answer": "Unable to see, usually temporarily",
+          "incorrect_answers": [
+            "Unable to hear any sounds",
+            "Unable to smell anything",
+            "Unable to feel touch"
+          ]
+        },
+        {
+          "question": "The definition of rare is:",
+          "correct_answer": "Not common or frequent",
+          "incorrect_answers": [
+            "Happening every day",
+            "Easy to find anywhere",
+            "Known by everyone"
+          ]
+        },
+        {
+          "question": "The definition of wonder is:",
+          "correct_answer": "To feel curious or amazed about something",
+          "incorrect_answers": [
+            "To feel angry about something",
+            "To feel scared of something",
+            "To feel bored by something"
+          ]
+        },
+        {
+          "question": "The definition of punch is:",
+          "correct_answer": "To hit with a closed fist",
+          "incorrect_answers": [
+            "To kick with the foot",
+            "To push with open hands",
+            "To grab and hold tightly"
+          ]
+        },
+        {
+          "question": "The definition of tube is:",
+          "correct_answer": "A long, hollow cylinder for holding or transporting something",
+          "incorrect_answers": [
+            "A flat, wide surface for writing",
+            "A small, solid ball for playing",
+            "A thin, flexible string for tying"
+          ]
+        },
+        {
+          "question": "The definition of smoothly is:",
+          "correct_answer": "In a way that is even and without problems",
+          "incorrect_answers": [
+            "In a way that is rough and bumpy",
+            "In a way that is loud and noisy",
+            "In a way that is stop-and-start"
+          ]
+        },
+        {
+          "question": "The definition of stern is:",
+          "correct_answer": "Strict and severe",
+          "incorrect_answers": [
+            "Calm and relaxed",
+            "Cheerful and friendly",
+            "Quiet and shy"
+          ]
+        },
+        {
+          "question": "The definition of explode is:",
+          "correct_answer": "To burst or blow up violently",
+          "incorrect_answers": [
+            "To slowly fall apart",
+            "To quickly melt away",
+            "To suddenly disappear"
+          ]
+        },
+        {
+          "question": "The definition of wounded is:",
+          "correct_answer": "Injured, especially in battle",
+          "incorrect_answers": [
+            "Trained for combat",
+            "Decorated for bravery",
+            "Equipped for battle"
+          ]
+        },
+        {
+          "question": "The definition of flocked is:",
+          "correct_answer": "Gathered or moved together in a group",
+          "incorrect_answers": [
+            "Separated into small pieces",
+            "Arranged in a specific pattern",
+            "Spread out over a wide area"
+          ]
+        },
+        {
+          "question": "The definition of format is:",
+          "correct_answer": "The way something is arranged or set out",
+          "incorrect_answers": [
+            "The size of an object",
+            "The color of a design",
+            "The weight of an item"
+          ]
+        },
+        {
+          "question": "The definition of staining is:",
+          "correct_answer": "Marking or discoloring something",
+          "incorrect_answers": [
+            "Cleaning something thoroughly",
+            "Polishing to a high shine",
+            "Covering with a protective layer"
+          ]
+        },
+        {
+          "question": "The definition of disc is:",
+          "correct_answer": "A flat, circular object",
+          "incorrect_answers": [
+            "A long, rectangular shape",
+            "A three-dimensional cube",
+            "A pointed, triangular form"
+          ]
+        },
+        {
+          "question": "The definition of script is:",
+          "correct_answer": "Written text of a play or movie",
+          "incorrect_answers": [
+            "A type of handwriting",
+            "A computer programming language",
+            "A set of instructions for cooking"
+          ]
+        },
+        {
+          "question": "The definition of fossil is:",
+          "correct_answer": "Remains of ancient plants or animals preserved in rock",
+          "incorrect_answers": [
+            "A type of renewable energy",
+            "A precious gemstone",
+            "An ancient form of writing"
+          ]
+        },
+        {
+          "question": "The definition of structure is:",
+          "correct_answer": "The way something is built or organized",
+          "incorrect_answers": [
+            "The color scheme of a building",
+            "The age of a construction",
+            "The purpose of an organization"
+          ]
+        },
+        {
+          "question": "The definition of garments is:",
+          "correct_answer": "Items of clothing",
+          "incorrect_answers": [
+            "Pieces of furniture",
+            "Types of vehicles",
+            "Kinds of food"
+          ]
+        },
+        {
+          "question": "The definition of enclosed is:",
+          "correct_answer": "Surrounded or shut in on all sides",
+          "incorrect_answers": [
+            "Open to the air",
+            "Partially covered",
+            "Exposed to the elements"
+          ]
+        },
+        {
+          "question": "The definition of whisker is:",
+          "correct_answer": "A hair growing on the face of a person or animal",
+          "incorrect_answers": [
+            "A type of cooking utensil",
+            "A part of a plant's stem",
+            "A small bone in the ear"
+          ]
+        },
+        {
+          "question": "The definition of splendid is:",
+          "correct_answer": "Magnificent or very impressive",
+          "incorrect_answers": [
+            "Ordinary or common",
+            "Small and unnoticeable",
+            "Practical and useful"
+          ]
+        },
+        {
+          "question": "The definition of rumors is:",
+          "correct_answer": "Information spread without confirmation of truth",
+          "incorrect_answers": [
+            "Official news reports",
+            "Scientific facts",
+            "Personal opinions"
+          ]
+        },
+        {
+          "question": "The definition of assumed is:",
+          "correct_answer": "Taken for granted or supposed",
+          "incorrect_answers": [
+            "Carefully measured or calculated",
+            "Officially recorded or documented",
+            "Publicly announced or declared"
+          ]
+        },
+        {
+          "question": "The definition of ditch is:",
+          "correct_answer": "A long, narrow channel dug in the ground",
+          "incorrect_answers": [
+            "A small hill or mound of earth",
+            "A wide, shallow pool of water",
+            "A flat area of paved ground"
+          ]
+        },
+        {
+          "question": "The definition of veil is:",
+          "correct_answer": "A piece of thin material worn to cover the face",
+          "incorrect_answers": [
+            "A type of hat worn on special occasions",
+            "A decorative scarf worn around the neck",
+            "A protective mask used in certain sports"
+          ]
+        },
+        {
+          "question": "The definition of fragrant is:",
+          "correct_answer": "Having a pleasant or sweet smell",
+          "incorrect_answers": [
+            "Having a strong or intense flavor",
+            "Having a bright or vivid color",
+            "Having a smooth or silky texture"
+          ]
+        },
+        {
+          "question": "The definition of abundant is:",
+          "correct_answer": "Existing in large quantities",
+          "incorrect_answers": [
+            "Growing at a rapid pace",
+            "Varying in size or shape",
+            "Appearing at regular intervals"
+          ]
+        },
+        {
+          "question": "The definition of renew is:",
+          "correct_answer": "To make new or like new again",
+          "incorrect_answers": [
+            "To create for the first time",
+            "To copy from an original",
+            "To improve upon gradually"
+          ]
+        },
+        {
+          "question": "The definition of sap is:",
+          "correct_answer": "The fluid that circulates in a plant",
+          "incorrect_answers": [
+            "The outer layer of a tree trunk",
+            "The root system of a large tree",
+            "The seeds produced by a plant"
+          ]
+        },
+        {
+          "question": "The definition of cultured is:",
+          "correct_answer": "Refined in manner and taste",
+          "incorrect_answers": [
+            "Skilled in a specific craft",
+            "Educated to a high level",
+            "Experienced in world travel"
+          ]
+        },
+        {
+          "question": "The definition of pardoned is:",
+          "correct_answer": "Forgiven for an offense",
+          "incorrect_answers": [
+            "Accused of a wrongdoing",
+            "Punished for a crime",
+            "Suspected of misconduct"
+          ]
+        },
+        {
+          "question": "The definition of access is:",
+          "correct_answer": "The right to enter or use something",
+          "incorrect_answers": [
+            "The ability to understand complex ideas",
+            "The process of gaining new knowledge",
+            "The method of organizing information"
+          ]
+        },
+        {
+          "question": "The definition of rejecting is:",
+          "correct_answer": "Refusing to accept or consider",
+          "incorrect_answers": [
+            "Carefully examining or studying",
+            "Gradually becoming accustomed to",
+            "Enthusiastically embracing or adopting"
+          ]
+        },
+        {
+          "question": "The definition of riot is:",
+          "correct_answer": "A violent public disturbance",
+          "incorrect_answers": [
+            "A peaceful political protest",
+            "A large celebratory gathering",
+            "A competitive sporting event"
+          ]
+        },
+        {
+          "question": "The definition of era is:",
+          "correct_answer": "A long and distinct period of history",
+          "incorrect_answers": [
+            "A brief moment in time",
+            "A regularly occurring event",
+            "A method of measuring time"
+          ]
+        },
+        {
+          "question": "The definition of advisors is:",
+          "correct_answer": "People who give advice or guidance",
+          "incorrect_answers": [
+            "People who make final decisions",
+            "People who enforce rules or laws",
+            "People who teach specific subjects"
+          ]
+        },
+        {
+          "question": "The definition of metro is:",
+          "correct_answer": "An underground railway system in a city",
+          "incorrect_answers": [
+            "A large shopping center in a city",
+            "A tall office building downtown",
+            "A central park in an urban area"
+          ]
+        },
+        {
+          "question": "The definition of tango is:",
+          "correct_answer": "A passionate Latin American dance",
+          "incorrect_answers": [
+            "A type of tropical fruit drink",
+            "A style of formal evening wear",
+            "A traditional cooking method"
+          ]
+        },
+        {
+          "question": "The definition of timidity is:",
+          "correct_answer": "Lack of courage or confidence",
+          "incorrect_answers": [
+            "Excess of physical energy",
+            "Abundance of creative ideas",
+            "Scarcity of material resources"
+          ]
+        },
+        {
+          "question": "The definition of endeavor is:",
+          "correct_answer": "An attempt to achieve a goal",
+          "incorrect_answers": [
+            "A journey to a distant place",
+            "A promise made to someone",
+            "A discovery of something new"
+          ]
+        },
+        {
+          "question": "The definition of tipsy is:",
+          "correct_answer": "Slightly drunk",
+          "incorrect_answers": [
+            "Mildly upset",
+            "Somewhat tired",
+            "Partially confused"
+          ]
+        },
+        {
+          "question": "The definition of compelling is:",
+          "correct_answer": "Evoking interest or attention",
+          "incorrect_answers": [
+            "Causing fear or anxiety",
+            "Creating peace or calm",
+            "Promoting health or fitness"
+          ]
+        },
+        {
+          "question": "The definition of lured is:",
+          "correct_answer": "Tempted or attracted by something",
+          "incorrect_answers": [
+            "Frightened or scared away",
+            "Confused or misled by something",
+            "Inspired or motivated to act"
+          ]
+        },
+        {
+          "question": "The definition of defects is:",
+          "correct_answer": "Imperfections or faults",
+          "incorrect_answers": [
+            "Improvements or upgrades",
+            "Changes or modifications",
+            "Features or characteristics"
+          ]
+        },
+        {
+          "question": "The definition of grouchy is:",
+          "correct_answer": "Bad-tempered and complaining",
+          "incorrect_answers": [
+            "Overly excited and energetic",
+            "Extremely shy and quiet",
+            "Unusually creative and artistic"
+          ]
+        },
+        {
+          "question": "The definition of lodged is:",
+          "correct_answer": "Firmly fixed or embedded",
+          "incorrect_answers": [
+            "Temporarily placed or stored",
+            "Carefully arranged or organized",
+            "Frequently moved or relocated"
+          ]
+        },
+        {
+          "question": "The definition of tact is:",
+          "correct_answer": "Skill in dealing with difficult situations",
+          "incorrect_answers": [
+            "Ability to perform complex calculations",
+            "Talent for creating artistic works",
+            "Capacity to memorize large amounts of information"
+          ]
+        },
+        {
+          "question": "The definition of perceive is:",
+          "correct_answer": "To become aware of through the senses",
+          "incorrect_answers": [
+            "To make a decision about something",
+            "To create an image in one's mind",
+            "To remember a past experience"
+          ]
+        },
+        {
+          "question": "The definition of competent is:",
+          "correct_answer": "Having the necessary ability or skill",
+          "incorrect_answers": [
+            "Being highly creative or imaginative",
+            "Having a friendly or outgoing personality",
+            "Being physically strong or athletic"
+          ]
+        },
+        {
+          "question": "The definition of stallion is:",
+          "correct_answer": "An uncastrated adult male horse",
+          "incorrect_answers": [
+            "A type of large sailing ship",
+            "A powerful motorcycle engine",
+            "A tall mountain peak"
+          ]
+        },
+        {
+          "question": "The definition of spew is:",
+          "correct_answer": "To expel or discharge forcefully",
+          "incorrect_answers": [
+            "To gather or collect carefully",
+            "To mix or blend thoroughly",
+            "To arrange or organize neatly"
+          ]
+        },
+        {
+          "question": "The definition of generic is:",
+          "correct_answer": "Not specific; applicable to a whole class of things",
+          "incorrect_answers": [
+            "Unique to a particular brand or product",
+            "Specially designed for a specific purpose",
+            "Rarely found or produced"
+          ]
+        },
+        {
+          "question": "The definition of obesity is:",
+          "correct_answer": "The condition of being very overweight",
+          "incorrect_answers": [
+            "A type of dietary restriction",
+            "A method of physical training",
+            "A measurement of body height"
+          ]
+        },
+        {
+          "question": "The definition of corporation is:",
+          "correct_answer": "A large company or group of companies",
+          "incorrect_answers": [
+            "A government department",
+            "A charitable organization",
+            "An educational institution"
+          ]
+        },
+        {
+          "question": "The definition of editorial is:",
+          "correct_answer": "An article expressing the editor's opinion",
+          "incorrect_answers": [
+            "A type of advertisement",
+            "A section of classified ads",
+            "A list of corrections"
+          ]
+        },
+        {
+          "question": "The definition of cordial is:",
+          "correct_answer": "Warm and friendly",
+          "incorrect_answers": [
+            "Cold and refreshing",
+            "Sweet and fruity",
+            "Spicy and aromatic"
+          ]
+        },
+        {
+          "question": "The definition of emulate is:",
+          "correct_answer": "To try to equal or excel; to imitate",
+          "incorrect_answers": [
+            "To criticize or find fault",
+            "To explain or clarify",
+            "To predict or forecast"
+          ]
+        },
+        {
+          "question": "The definition of garbed is:",
+          "correct_answer": "Dressed or clothed in a particular way",
+          "incorrect_answers": [
+            "Decorated with bright colors",
+            "Equipped with special tools",
+            "Marked with unique patterns"
+          ]
+        },
+        {
+          "question": "The definition of scuttle is:",
+          "correct_answer": "To run hurriedly with short, quick steps",
+          "incorrect_answers": [
+            "To swim slowly in circles",
+            "To climb carefully and quietly",
+            "To jump repeatedly in place"
+          ]
+        },
+        {
+          "question": "The definition of woe is:",
+          "correct_answer": "Great sorrow or distress",
+          "incorrect_answers": [
+            "Mild disappointment",
+            "Temporary setback",
+            "Minor inconvenience"
+          ]
+        },
+        {
+          "question": "The definition of quota is:",
+          "correct_answer": "A fixed minimum or maximum number or amount",
+          "incorrect_answers": [
+            "A type of financial investment",
+            "A system of measurement",
+            "A method of voting"
+          ]
+        },
+        {
+          "question": "The definition of obscurity is:",
+          "correct_answer": "The state of being unknown or inconspicuous",
+          "incorrect_answers": [
+            "A state of confusion",
+            "A period of transition",
+            "A level of complexity"
+          ]
+        },
+        {
+          "question": "The definition of query is:",
+          "correct_answer": "A question, especially one expressing doubt",
+          "incorrect_answers": [
+            "A statement of fact",
+            "An expression of agreement",
+            "A request for permission"
+          ]
+        },
+        {
+          "question": "The definition of parched is:",
+          "correct_answer": "Extremely dry, especially from heat",
+          "incorrect_answers": [
+            "Extremely cold",
+            "Very humid",
+            "Heavily forested"
+          ]
+        },
+        {
+          "question": "The definition of rustic is:",
+          "correct_answer": "Having a simplicity characteristic of country life",
+          "incorrect_answers": [
+            "Highly sophisticated",
+            "Technologically advanced",
+            "Industrially produced"
+          ]
+        },
+        {
+          "question": "The definition of intoxicate is:",
+          "correct_answer": "To excite or stupefy by alcohol or a drug",
+          "incorrect_answers": [
+            "To cleanse or purify",
+            "To educate or inform",
+            "To entertain or amuse"
+          ]
+        },
+        {
+          "question": "The definition of ambassador is:",
+          "correct_answer": "An official envoy, especially a high-ranking diplomat",
+          "incorrect_answers": [
+            "A military commander",
+            "A business executive",
+            "A religious leader"
+          ]
+        },
+        {
+          "question": "The definition of slur is:",
+          "correct_answer": "To speak indistinctly or unclearly",
+          "incorrect_answers": [
+            "To write in cursive handwriting",
+            "To move quickly and smoothly",
+            "To sing in a soft, gentle voice"
+          ]
+        },
+        {
+          "question": "The definition of pedestrians is:",
+          "correct_answer": "People walking along a road or in a developed area",
+          "incorrect_answers": [
+            "Vehicles designed for off-road use",
+            "Animals that live in urban environments",
+            "Structures built for crossing busy streets"
+          ]
+        },
+        {
+          "question": "The definition of graft is:",
+          "correct_answer": "To insert a shoot or twig into a growing plant",
+          "incorrect_answers": [
+            "To remove unwanted plants from a garden",
+            "To create a detailed landscape design",
+            "To collect and preserve rare plant species"
+          ]
+        },
+        {
+          "question": "The definition of impel is:",
+          "correct_answer": "To drive, force, or urge someone to do something",
+          "incorrect_answers": [
+            "To prevent or hinder someone's actions",
+            "To carefully consider all options",
+            "To move in a circular motion"
+          ]
+        },
+        {
+          "question": "The definition of carnage is:",
+          "correct_answer": "The killing of a large number of people",
+          "incorrect_answers": [
+            "A festive celebration or carnival",
+            "A type of medieval armor",
+            "A method of preserving meat"
+          ]
+        },
+        {
+          "question": "The definition of felons is:",
+          "correct_answer": "People who have committed serious crimes",
+          "incorrect_answers": [
+            "Skilled workers in the construction industry",
+            "Members of a secret society or club",
+            "Individuals with rare genetic conditions"
+          ]
+        },
+        {
+          "question": "The definition of skepticism is:",
+          "correct_answer": "A doubting or questioning attitude",
+          "incorrect_answers": [
+            "A strong belief in supernatural phenomena",
+            "An optimistic outlook on life",
+            "A method of scientific experimentation"
+          ]
+        },
+        {
+          "question": "The definition of auxiliary is:",
+          "correct_answer": "Providing supplementary or additional help",
+          "incorrect_answers": [
+            "Operating independently without assistance",
+            "Relating to ancient civilizations",
+            "Describing a type of mathematical equation"
+          ]
+        },
+        {
+          "question": "The definition of oblivion is:",
+          "correct_answer": "The state of being unaware or unconscious of what is happening",
+          "incorrect_answers": [
+            "A state of perfect happiness or bliss",
+            "A type of memory enhancement technique",
+            "The process of solving complex problems"
+          ]
+        },
+        {
+          "question": "The definition of arid is:",
+          "correct_answer": "Extremely dry and lacking moisture",
+          "incorrect_answers": [
+            "Extremely cold and icy",
+            "Densely forested and lush",
+            "Frequently flooded or waterlogged"
+          ]
+        },
+        {
+          "question": "The definition of purist is:",
+          "correct_answer": "A person who insists on absolute adherence to traditional rules or structures",
+          "incorrect_answers": [
+            "Someone who studies the purification of water",
+            "An expert in the field of genetic engineering",
+            "A practitioner of an ancient healing art"
+          ]
+        },
+        {
+          "question": "The definition of anecdotal is:",
+          "correct_answer": "Based on personal accounts rather than facts or research",
+          "incorrect_answers": [
+            "Relating to the study of ancient civilizations",
+            "Describing a type of statistical analysis",
+            "Pertaining to the treatment of diseases"
+          ]
+        },
+        {
+          "question": "The definition of Almighty is:",
+          "correct_answer": "Having complete power; omnipotent",
+          "incorrect_answers": [
+            "Extremely wealthy or prosperous",
+            "Highly educated or knowledgeable",
+            "Physically strong and muscular"
+          ]
+        },
+        {
+          "question": "The definition of sphinx is:",
+          "correct_answer": "A mythical creature with a human head and a lion's body",
+          "incorrect_answers": [
+            "An ancient Egyptian writing system",
+            "A type of riddle or puzzle",
+            "A rare species of desert cat"
+          ]
+        },
+        {
+          "question": "The definition of decipher is:",
+          "correct_answer": "To succeed in understanding or interpreting something",
+          "incorrect_answers": [
+            "To encode a message in secret writing",
+            "To solve a complex mathematical equation",
+            "To translate text from one language to another"
+          ]
+        },
+        {
+          "question": "The definition of aghast is:",
+          "correct_answer": "Filled with horror or shock",
+          "incorrect_answers": [
+            "Extremely excited or enthusiastic",
+            "Deeply moved by beauty",
+            "Thoroughly confused or puzzled"
+          ]
+        },
+        {
+          "question": "The definition of scrawl is:",
+          "correct_answer": "To write or draw awkwardly or carelessly",
+          "incorrect_answers": [
+            "To speak in a loud, harsh voice",
+            "To move in a slow, crawling manner",
+            "To search thoroughly for something"
+          ]
+        },
+        {
+          "question": "The definition of amoeba is:",
+          "correct_answer": "A single-celled organism that can change its shape",
+          "incorrect_answers": [
+            "A type of flowering plant",
+            "A small, burrowing mammal",
+            "A prehistoric flying reptile"
+          ]
+        },
+        {
+          "question": "The definition of gauntlet is:",
+          "correct_answer": "A protective glove worn with medieval armor",
+          "incorrect_answers": [
+            "A type of challenge or contest",
+            "A small, fortified tower",
+            "A medieval weapon with a spiked ball"
+          ]
+        },
+        {
+          "question": "The definition of scathing is:",
+          "correct_answer": "Severely critical; cutting",
+          "incorrect_answers": [
+            "Extremely hot or burning",
+            "Highly contagious or infectious",
+            "Deeply emotional or moving"
+          ]
+        },
+        {
+          "question": "The definition of reminiscent is:",
+          "correct_answer": "Tending to remind one of something",
+          "incorrect_answers": [
+            "Able to see into the future",
+            "Strongly opposed to change",
+            "Easily influenced by others"
+          ]
+        },
+        {
+          "question": "The definition of furor is:",
+          "correct_answer": "An outbreak of public anger or excitement",
+          "incorrect_answers": [
+            "A type of ancient Roman festival",
+            "A state of deep meditation",
+            "A rare astronomical event"
+          ]
+        },
+        {
+          "question": "The definition of minx is:",
+          "correct_answer": "A young woman considered bold and flirtatious",
+          "incorrect_answers": [
+            "A small, nocturnal mammal",
+            "A type of spicy sauce",
+            "A musical instrument with strings"
+          ]
+        },
+        {
+          "question": "The definition of emancipator is:",
+          "correct_answer": "A person who frees others from restraint or bondage",
+          "incorrect_answers": [
+            "Someone who predicts future events",
+            "A person who studies ancient languages",
+            "An expert in financial investments"
+          ]
+        },
+        {
+          "question": "The definition of expunge is:",
+          "correct_answer": "To erase or remove completely",
+          "incorrect_answers": [
+            "To expand or enlarge significantly",
+            "To explain in great detail",
+            "To explore thoroughly"
+          ]
+        },
+        {
+          "question": "The definition of tier is:",
+          "correct_answer": "A row or level of a structure, typically one of a series",
+          "incorrect_answers": [
+            "A type of knot used in sailing",
+            "A method of classifying animals",
+            "A traditional healing practice"
+          ]
+        },
+        {
+          "question": "The definition of quash is:",
+          "correct_answer": "To reject or void, especially by legal procedure",
+          "incorrect_answers": [
+            "To crush or squeeze forcefully",
+            "To move with a squishing sound",
+            "To wash thoroughly with water"
+          ]
+        },
+        {
+          "question": "The definition of discrepant is:",
+          "correct_answer": "Disagreeing or differing",
+          "incorrect_answers": [
+            "Describing musical harmony",
+            "Relating to visual perception",
+            "Pertaining to financial records"
+          ]
+        },
+        {
+          "question": "The definition of construe is:",
+          "correct_answer": "To interpret or understand in a particular way",
+          "incorrect_answers": [
+            "To build or construct something",
+            "To restrict or limit severely",
+            "To mix or blend thoroughly"
+          ]
+        },
+        {
+          "question": "The definition of inequity is:",
+          "correct_answer": "Lack of fairness or justice",
+          "incorrect_answers": [
+            "A state of perfect balance",
+            "An ancient system of measurement",
+            "A method of solving equations"
+          ]
+        },
+        {
+          "question": "The definition of sadism is:",
+          "correct_answer": "Deriving pleasure from inflicting pain on others",
+          "incorrect_answers": [
+            "A philosophical belief in self-denial",
+            "The practice of extreme generosity",
+            "A medical condition causing chronic sadness"
+          ]
+        },
+        {
+          "question": "The definition of reciprocity is:",
+          "correct_answer": "The practice of exchanging things with others for mutual benefit",
+          "incorrect_answers": [
+            "The ability to recall past events in detail",
+            "A method of solving complex mathematical problems",
+            "The study of sound waves and vibrations"
+          ]
+        },
+        {
+          "question": "The definition of slavered is:",
+          "correct_answer": "Drooled or slobbered",
+          "incorrect_answers": [
+            "Worked tirelessly without rest",
+            "Spoke in a slow, deliberate manner",
+            "Moved in a stealthy, cautious way"
+          ]
+        },
+        {
+          "question": "The definition of vassal is:",
+          "correct_answer": "A person in a subordinate position to a feudal lord",
+          "incorrect_answers": [
+            "A type of ancient sailing vessel",
+            "A religious leader in certain cultures",
+            "An expert in herbal medicine"
+          ]
+        },
+        {
+          "question": "The definition of evocations is:",
+          "correct_answer": "The act of bringing or recalling a feeling, memory, or image to the mind",
+          "incorrect_answers": [
+            "The process of water changing to vapor",
+            "A series of physical exercises for flexibility",
+            "The study of bird migrations"
+          ]
+        },
+        {
+          "question": "The definition of concubine is:",
+          "correct_answer": "A woman who lives with a man but has lower status than his wife",
+          "incorrect_answers": [
+            "A type of musical instrument",
+            "A method of preserving food",
+            "A style of ancient architecture"
+          ]
+        },
+        {
+          "question": "The definition of perfunctory is:",
+          "correct_answer": "Done without real interest, feeling, or effort",
+          "incorrect_answers": [
+            "Performed with extreme precision",
+            "Requiring great skill or expertise",
+            "Relating to bodily functions"
+          ]
+        },
+        {
+          "question": "The definition of subjunctive is:",
+          "correct_answer": "Relating to a verb mood expressing what is imagined or wished",
+          "incorrect_answers": [
+            "Describing something beneath the Earth's surface",
+            "Relating to the study of human subjects",
+            "A method of classifying plant species"
+          ]
+        },
+        {
+          "question": "The definition of meteorology is:",
+          "correct_answer": "The study of the atmosphere and weather",
+          "incorrect_answers": [
+            "The study of meteors and asteroids",
+            "The science of measuring earthquakes",
+            "The analysis of metal composition"
+          ]
+        },
+        {
+          "question": "The definition of tithes is:",
+          "correct_answer": "One-tenth of annual produce or earnings given as a tax",
+          "incorrect_answers": [
+            "Ancient stone monuments or pillars",
+            "A type of formal dance from the Middle Ages",
+            "Small, decorative knots used in sewing"
+          ]
+        },
+        {
+          "question": "The definition of gavel is:",
+          "correct_answer": "A small hammer used by a judge or presiding officer",
+          "incorrect_answers": [
+            "A type of semi-precious stone",
+            "A tool used for digging in archaeology",
+            "A medieval unit of measurement"
+          ]
+        },
+        {
+          "question": "The definition of elucidation is:",
+          "correct_answer": "The act of explaining or making something clear",
+          "incorrect_answers": [
+            "The process of extracting metal from ore",
+            "A method of water purification",
+            "The study of light and its properties"
+          ]
+        },
+        {
+          "question": "The definition of jugular is:",
+          "correct_answer": "Relating to the neck or throat",
+          "incorrect_answers": [
+            "Pertaining to a style of juggling",
+            "Describing a type of tropical fruit",
+            "Related to the art of pottery"
+          ]
+        },
+        {
+          "question": "The definition of sheaf is:",
+          "correct_answer": "A bundle of stalks of grain or similar plants tied together",
+          "incorrect_answers": [
+            "A type of ancient weapon",
+            "A method of binding books",
+            "A traditional fishing technique"
+          ]
+        },
+        {
+          "question": "The definition of poignantly is:",
+          "correct_answer": "In a way that evokes a keen sense of sadness or regret",
+          "incorrect_answers": [
+            "With extreme physical force",
+            "In a highly logical or rational manner",
+            "With great speed or urgency"
+          ]
+        },
+        {
+          "question": "The definition of cogitate is:",
+          "correct_answer": "To think deeply about something; to ponder",
+          "incorrect_answers": [
+            "To speak rapidly and excitedly",
+            "To move in a circular motion",
+            "To combine different elements"
+          ]
+        },
+        {
+          "question": "The definition of interlocutor is:",
+          "correct_answer": "A person who takes part in a dialogue or conversation",
+          "incorrect_answers": [
+            "Someone who translates between languages",
+            "A mediator in legal disputes",
+            "An expert in interpreting ancient texts"
+          ]
+        },
+        {
+          "question": "The definition of succulent is:",
+          "correct_answer": "Having thick, fleshy, water-storing leaves or stems",
+          "incorrect_answers": [
+            "Extremely tasty or delicious",
+            "Easily digested or absorbed",
+            "Producing a sweet-smelling sap"
+          ]
+        },
+        {
+          "question": "The definition of proliferate is:",
+          "correct_answer": "To increase rapidly in number; multiply",
+          "incorrect_answers": [
+            "To decrease gradually over time",
+            "To spread evenly across a surface",
+            "To change color or appearance"
+          ]
+        },
+        {
+          "question": "The definition of mortician is:",
+          "correct_answer": "A person whose business is preparing dead bodies for burial",
+          "incorrect_answers": [
+            "A specialist in treating skin diseases",
+            "An expert in ancient burial rituals",
+            "A craftsman who creates decorative tiles"
+          ]
+        },
+        {
+          "question": "The definition of indigenous is:",
+          "correct_answer": "Originating or occurring naturally in a particular place",
+          "incorrect_answers": [
+            "Imported from a foreign country",
+            "Artificially created in a laboratory",
+            "Adapted to live in multiple environments"
+          ]
+        },
+        {
+          "question": "The definition of quatrain is:",
+          "correct_answer": "A stanza or poem of four lines",
+          "incorrect_answers": [
+            "A musical composition for four instruments",
+            "A group of four related paintings",
+            "A set of four ancient coins"
+          ]
+        },
+        {
+          "question": "The definition of fealty is:",
+          "correct_answer": "Sworn loyalty to a lord or sovereign",
+          "incorrect_answers": [
+            "A type of medieval tax or tribute",
+            "A ceremonial feast or banquet",
+            "A system of land ownership"
+          ]
+        },
+        {
+          "question": "The definition of anarchic is:",
+          "correct_answer": "Without rule or government; in a state of disorder",
+          "incorrect_answers": [
+            "Relating to ancient Greek culture",
+            "Governed by strict rules and regulations",
+            "Characterized by perfect harmony"
+          ]
+        },
+        {
+          "question": "The definition of theocracy is:",
+          "correct_answer": "A system of government in which priests rule in the name of God",
+          "incorrect_answers": [
+            "A form of government based on scientific principles",
+            "A society ruled by the elderly or wise",
+            "A political system focused on environmental issues"
+          ]
+        },
+        {
+          "question": "The definition of charlatans is:",
+          "correct_answer": "People who falsely claim to have special knowledge or skill",
+          "incorrect_answers": [
+            "Skilled craftsmen in medieval guilds",
+            "Wandering musicians in ancient times",
+            "Diplomatic envoys between nations"
+          ]
+        },
+        {
+          "question": "The definition of coagulant is:",
+          "correct_answer": "A substance that causes a liquid to form clots",
+          "incorrect_answers": [
+            "A chemical used to purify water",
+            "A material that prevents freezing",
+            "An agent that speeds up chemical reactions"
+          ]
+        },
+        {
+          "question": "The definition of habilitate is:",
+          "correct_answer": "To qualify oneself; make fit or capable",
+          "incorrect_answers": [
+            "To restore to a former condition",
+            "To adapt to a new environment",
+            "To dress in formal attire"
+          ]
+        },
+        {
+          "question": "The definition of incendiary is:",
+          "correct_answer": "Designed to cause fires",
+          "incorrect_answers": [
+            "Capable of flight or levitation",
+            "Relating to the study of light",
+            "Causing extreme cold or freezing"
+          ]
+        },
+        {
+          "question": "The definition of garishness is:",
+          "correct_answer": "The quality of being excessively bright, showy, or attention-seeking",
+          "incorrect_answers": [
+            "The state of being old-fashioned or outdated",
+            "The property of reflecting sound waves",
+            "The tendency to cause fear or unease"
+          ]
+        },
+        {
+          "question": "The definition of despotism is:",
+          "correct_answer": "The exercise of absolute power, especially in a cruel and oppressive way",
+          "incorrect_answers": [
+            "A system of government based on popular vote",
+            "The practice of extreme self-denial",
+            "A philosophy promoting individual freedom"
+          ]
+        },
+        {
+          "question": "The definition of hieroglyphic is:",
+          "correct_answer": "Relating to a system of writing using pictures or symbols",
+          "incorrect_answers": [
+            "Describing a type of ancient musical notation",
+            "Pertaining to the study of human bones",
+            "A method of predicting future events"
+          ]
+        },
+        {
+          "question": "The definition of expostulate is:",
+          "correct_answer": "To express strong disapproval or disagreement",
+          "incorrect_answers": [
+            "To explain a complex idea in simple terms",
+            "To remove impurities from a substance",
+            "To arrange items in a specific order"
+          ]
+        },
+        {
+          "question": "The definition of perturbations is:",
+          "correct_answer": "Disturbances of the regular course of something",
+          "incorrect_answers": [
+            "Mathematical calculations in astronomy",
+            "Chemical reactions in the atmosphere",
+            "Psychological states of extreme focus"
+          ]
+        },
+        {
+          "question": "The definition of debasement is:",
+          "correct_answer": "The act of reducing the quality or value of something",
+          "incorrect_answers": [
+            "The process of removing a harmful substance",
+            "A method of reinforcing building foundations",
+            "The practice of simplifying complex systems"
+          ]
+        },
+        {
+          "question": "The definition of titillation is:",
+          "correct_answer": "The act of pleasantly exciting or stimulating",
+          "incorrect_answers": [
+            "A method of measuring small distances",
+            "The process of refining precious metals",
+            "A technique for preserving ancient documents"
+          ]
+        },
+        {
+          "question": "The definition of somnolence is:",
+          "correct_answer": "A state of drowsiness or sleepiness",
+          "incorrect_answers": [
+            "The ability to walk while sleeping",
+            "A condition of extreme mental alertness",
+            "A type of meditation practice"
+          ]
+        },
+        {
+          "question": "The definition of commodious is:",
+          "correct_answer": "Roomy and comfortable; spacious",
+          "incorrect_answers": [
+            "Easily traded or exchanged",
+            "Relating to basic goods and services",
+            "Frequently changing or variable"
+          ]
+        },
+        {
+          "question": "The definition of house is:",
+          "correct_answer": "A building where people live",
+          "incorrect_answers": [
+            "A place to buy food",
+            "A vehicle for transportation",
+            "A tool for gardening"
+          ]
+        },
+        {
+          "question": "The definition of cookie is:",
+          "correct_answer": "A sweet, flat baked treat",
+          "incorrect_answers": [
+            "A small toy for children",
+            "A type of writing tool",
+            "A piece of exercise equipment"
+          ]
+        },
+        {
+          "question": "The definition of made is:",
+          "correct_answer": "Created or produced something",
+          "incorrect_answers": [
+            "Destroyed or broke an object",
+            "Moved quickly from one place",
+            "Spoke loudly to someone else"
+          ]
+        },
+        {
+          "question": "The definition of wished is:",
+          "correct_answer": "Desired or wanted something",
+          "incorrect_answers": [
+            "Counted objects one by one",
+            "Cleaned a room thoroughly",
+            "Jumped high into the air"
+          ]
+        },
+        {
+          "question": "The definition of bank is:",
+          "correct_answer": "A place that handles money",
+          "incorrect_answers": [
+            "A store that sells food",
+            "A building for watching movies",
+            "A place to exercise"
+          ]
+        },
+        {
+          "question": "The definition of songs is:",
+          "correct_answer": "Musical pieces with words",
+          "incorrect_answers": [
+            "Stories written in books",
+            "Pictures drawn on paper",
+            "Games played with friends"
+          ]
+        },
+        {
+          "question": "The definition of quietly is:",
+          "correct_answer": "In a way that makes little noise",
+          "incorrect_answers": [
+            "Moving at a very fast speed",
+            "With many bright colors",
+            "In a very angry manner"
+          ]
+        },
+        {
+          "question": "The definition of practice is:",
+          "correct_answer": "To do something repeatedly",
+          "incorrect_answers": [
+            "To sleep for a long time",
+            "To eat food very quickly",
+            "To travel to far places"
+          ]
+        },
+        {
+          "question": "The definition of cotton is:",
+          "correct_answer": "A soft material for clothes",
+          "incorrect_answers": [
+            "A hard substance for building",
+            "A type of sweet food",
+            "A machine that makes noise"
+          ]
+        },
+        {
+          "question": "The definition of doors is:",
+          "correct_answer": "Entrances to rooms or buildings",
+          "incorrect_answers": [
+            "Windows that let in light",
+            "Furniture for sitting on",
+            "Machines for washing clothes"
+          ]
+        },
+        {
+          "question": "The definition of dream is:",
+          "correct_answer": "Images and thoughts during sleep",
+          "incorrect_answers": [
+            "A type of delicious food",
+            "A way to travel fast",
+            "A tool for fixing things"
+          ]
+        },
+        {
+          "question": "The definition of cute is:",
+          "correct_answer": "Attractive in a pretty way",
+          "incorrect_answers": [
+            "Very large in size",
+            "Extremely loud in volume",
+            "Moving at high speed"
+          ]
+        },
+        {
+          "question": "The definition of clear is:",
+          "correct_answer": "Easy to see through",
+          "incorrect_answers": [
+            "Difficult to lift up",
+            "Pleasant to eat",
+            "Fun to play with"
+          ]
+        },
+        {
+          "question": "The definition of weight is:",
+          "correct_answer": "How heavy something is",
+          "incorrect_answers": [
+            "How tall something is",
+            "How loud something is",
+            "How old something is"
+          ]
+        },
+        {
+          "question": "The definition of screens is:",
+          "correct_answer": "Surfaces that show images",
+          "incorrect_answers": [
+            "Tools used for writing",
+            "Devices for cooking food",
+            "Machines for cleaning clothes"
+          ]
+        },
+        {
+          "question": "The definition of squares is:",
+          "correct_answer": "Shapes with four equal sides",
+          "incorrect_answers": [
+            "Round objects that roll",
+            "Triangles with three points",
+            "Straight lines that don't bend"
+          ]
+        },
+        {
+          "question": "The definition of sort is:",
+          "correct_answer": "To organize things in order",
+          "incorrect_answers": [
+            "To mix things together",
+            "To break things apart",
+            "To hide things away"
+          ]
+        },
+        {
+          "question": "The definition of damaged is:",
+          "correct_answer": "Harmed or broken in some way",
+          "incorrect_answers": [
+            "Fixed or repaired completely",
+            "Cleaned very thoroughly",
+            "Painted in bright colors"
+          ]
+        },
+        {
+          "question": "The definition of shore is:",
+          "correct_answer": "The land along a body of water",
+          "incorrect_answers": [
+            "The top of a tall mountain",
+            "The center of a big city",
+            "The middle of a thick forest"
+          ]
+        },
+        {
+          "question": "The definition of amaze is:",
+          "correct_answer": "To surprise or impress greatly",
+          "incorrect_answers": [
+            "To measure something accurately",
+            "To cook food quickly",
+            "To sing very loudly"
+          ]
+        },
+        {
+          "question": "The definition of general is:",
+          "correct_answer": "Common or widespread",
+          "incorrect_answers": [
+            "Rare or hard to find",
+            "Very small in size",
+            "Extremely bright in color"
+          ]
+        },
+        {
+          "question": "The definition of sew is:",
+          "correct_answer": "To join fabric with thread",
+          "incorrect_answers": [
+            "To cook food in an oven",
+            "To write words on paper",
+            "To clean clothes with water"
+          ]
+        },
+        {
+          "question": "The definition of character is:",
+          "correct_answer": "A person in a story",
+          "incorrect_answers": [
+            "A type of building",
+            "A kind of food",
+            "A part of a car"
+          ]
+        },
+        {
+          "question": "The definition of cell is:",
+          "correct_answer": "The smallest unit of life",
+          "incorrect_answers": [
+            "A type of boat",
+            "A kind of food",
+            "A part of a song"
+          ]
+        },
+        {
+          "question": "The definition of shield is:",
+          "correct_answer": "An object used for protection",
+          "incorrect_answers": [
+            "A tool for cooking food",
+            "An instrument for making music",
+            "A machine for cleaning clothes"
+          ]
+        },
+        {
+          "question": "The definition of seeking is:",
+          "correct_answer": "Looking for or trying to find",
+          "incorrect_answers": [
+            "Cooking food in an oven",
+            "Playing a musical instrument",
+            "Writing a story in a book"
+          ]
+        },
+        {
+          "question": "The definition of shock is:",
+          "correct_answer": "To surprise or upset suddenly",
+          "incorrect_answers": [
+            "To cook food very slowly",
+            "To sing in a loud voice",
+            "To run at a fast pace"
+          ]
+        },
+        {
+          "question": "The definition of crushed is:",
+          "correct_answer": "Pressed or squeezed very hard",
+          "incorrect_answers": [
+            "Touched very gently",
+            "Lit up very brightly",
+            "Cooked for a long time"
+          ]
+        },
+        {
+          "question": "The definition of farthest is:",
+          "correct_answer": "At the greatest distance away",
+          "incorrect_answers": [
+            "The brightest in color",
+            "The heaviest in weight",
+            "The loudest in volume"
+          ]
+        },
+        {
+          "question": "The definition of dripping is:",
+          "correct_answer": "Falling in small drops",
+          "incorrect_answers": [
+            "Growing at a fast rate",
+            "Singing in a loud voice",
+            "Cooking at a low temperature"
+          ]
+        },
+        {
+          "question": "The definition of selected is:",
+          "correct_answer": "Chosen from a group",
+          "incorrect_answers": [
+            "Cooked in an oven",
+            "Painted with bright colors",
+            "Sung in a loud voice"
+          ]
+        },
+        {
+          "question": "The definition of muscle is:",
+          "correct_answer": "Tissue that helps body move",
+          "incorrect_answers": [
+            "A type of clothing",
+            "A kind of food",
+            "A part of a car"
+          ]
+        },
+        {
+          "question": "The definition of fond is:",
+          "correct_answer": "Having affection or liking for",
+          "incorrect_answers": [
+            "Cooking food very well",
+            "Running at a fast speed",
+            "Singing in a beautiful voice"
+          ]
+        },
+        {
+          "question": "The definition of shameless is:",
+          "correct_answer": "Lacking shame or modesty",
+          "incorrect_answers": [
+            "Full of energy and excitement",
+            "Covered in bright paint",
+            "Made entirely of metal"
+          ]
+        },
+        {
+          "question": "The definition of enjoyable is:",
+          "correct_answer": "Giving pleasure or satisfaction",
+          "incorrect_answers": [
+            "Very heavy to lift",
+            "Extremely bright in color",
+            "Cooked very quickly"
+          ]
+        },
+        {
+          "question": "The definition of lecture is:",
+          "correct_answer": "A talk given to teach",
+          "incorrect_answers": [
+            "A type of dance move",
+            "A method of cooking food",
+            "A game played with cards"
+          ]
+        },
+        {
+          "question": "The definition of audio is:",
+          "correct_answer": "Related to hearing or sound",
+          "incorrect_answers": [
+            "About different colors",
+            "Concerning types of food",
+            "Regarding various plants"
+          ]
+        },
+        {
+          "question": "The definition of hoop is:",
+          "correct_answer": "A circular ring or band",
+          "incorrect_answers": [
+            "A type of food",
+            "A tool for writing",
+            "A musical note"
+          ]
+        },
+        {
+          "question": "The definition of chilling is:",
+          "correct_answer": "Very cold or frightening",
+          "incorrect_answers": [
+            "Very colorful and bright",
+            "Cooked at high temperature",
+            "Having a strong smell"
+          ]
+        },
+        {
+          "question": "The definition of hell is:",
+          "correct_answer": "A place of suffering",
+          "incorrect_answers": [
+            "A type of sweet fruit",
+            "An instrument for music",
+            "A method of cooking food"
+          ]
+        },
+        {
+          "question": "The definition of occur is:",
+          "correct_answer": "To happen or take place",
+          "incorrect_answers": [
+            "To cook food in an oven",
+            "To sing a beautiful song",
+            "To paint a colorful picture"
+          ]
+        },
+        {
+          "question": "The definition of voter is:",
+          "correct_answer": "A person who votes",
+          "incorrect_answers": [
+            "A type of plant",
+            "A tool for cooking",
+            "An instrument for music"
+          ]
+        },
+        {
+          "question": "The definition of swamp is:",
+          "correct_answer": "Wet, marshy land",
+          "incorrect_answers": [
+            "A very tall building",
+            "A type of dance move",
+            "A method of cooking food"
+          ]
+        },
+        {
+          "question": "The definition of blueprint is:",
+          "correct_answer": "A detailed plan or design",
+          "incorrect_answers": [
+            "A type of fruit",
+            "A genre of music",
+            "A technique for cooking"
+          ]
+        },
+        {
+          "question": "The definition of attach is:",
+          "correct_answer": "To join or fasten to",
+          "incorrect_answers": [
+            "To cook at high heat",
+            "To sing in a group",
+            "To paint with bright colors"
+          ]
+        },
+        {
+          "question": "The definition of jiggle is:",
+          "correct_answer": "To shake lightly",
+          "incorrect_answers": [
+            "To cook very quickly",
+            "To sing very softly",
+            "To run very fast"
+          ]
+        },
+        {
+          "question": "The definition of eagerness is:",
+          "correct_answer": "Keen desire or enthusiasm",
+          "incorrect_answers": [
+            "A type of food",
+            "A musical note",
+            "A species of plant"
+          ]
+        },
+        {
+          "question": "The definition of hemp is:",
+          "correct_answer": "A plant used for fiber",
+          "incorrect_answers": [
+            "A tool for cooking",
+            "A type of dance move",
+            "An instrument for music"
+          ]
+        },
+        {
+          "question": "The definition of strictly is:",
+          "correct_answer": "In a precise and exact manner",
+          "incorrect_answers": [
+            "In a very loose way",
+            "With great speed",
+            "With loud volume"
+          ]
+        },
+        {
+          "question": "The definition of comment is:",
+          "correct_answer": "To express an opinion",
+          "incorrect_answers": [
+            "To eat food quickly",
+            "To run at high speed",
+            "To paint with bright colors"
+          ]
+        },
+        {
+          "question": "The definition of trace is:",
+          "correct_answer": "To follow or find the path",
+          "incorrect_answers": [
+            "To calculate a math problem",
+            "To clean thoroughly",
+            "To arrange in alphabetical order"
+          ]
+        },
+        {
+          "question": "The definition of germ is:",
+          "correct_answer": "A microorganism that causes disease",
+          "incorrect_answers": [
+            "A type of precious stone",
+            "A part of a plant's stem",
+            "A unit of electrical charge"
+          ]
+        },
+        {
+          "question": "The definition of equip is:",
+          "correct_answer": "To provide with necessary items",
+          "incorrect_answers": [
+            "To solve a complex puzzle",
+            "To measure precise distances",
+            "To translate between languages"
+          ]
+        },
+        {
+          "question": "The definition of drill is:",
+          "correct_answer": "To make a hole with a tool",
+          "incorrect_answers": [
+            "To solve mathematical equations",
+            "To arrange books on a shelf",
+            "To predict future events"
+          ]
+        },
+        {
+          "question": "The definition of panel is:",
+          "correct_answer": "A flat section of a surface",
+          "incorrect_answers": [
+            "A type of formal dance",
+            "A method of cooking meat",
+            "A category of cloud formation"
+          ]
+        },
+        {
+          "question": "The definition of dummies is:",
+          "correct_answer": "Models resembling human figures",
+          "incorrect_answers": [
+            "Exotic tropical fruits",
+            "Ancient Egyptian artifacts",
+            "Rare postage stamps"
+          ]
+        },
+        {
+          "question": "The definition of betrays is:",
+          "correct_answer": "Reveals or exposes unintentionally",
+          "incorrect_answers": [
+            "Solves a mystery",
+            "Invents a new device",
+            "Predicts the weather"
+          ]
+        },
+        {
+          "question": "The definition of observing is:",
+          "correct_answer": "Watching carefully",
+          "incorrect_answers": [
+            "Solving puzzles",
+            "Planting trees",
+            "Composing music"
+          ]
+        },
+        {
+          "question": "The definition of exclusive is:",
+          "correct_answer": "Limited to a particular group",
+          "incorrect_answers": [
+            "Made of expensive materials",
+            "Difficult to understand",
+            "Occurring very rarely"
+          ]
+        },
+        {
+          "question": "The definition of military is:",
+          "correct_answer": "Related to armed forces",
+          "incorrect_answers": [
+            "Concerning space exploration",
+            "Involving agricultural techniques",
+            "Related to economic policies"
+          ]
+        },
+        {
+          "question": "The definition of minister is:",
+          "correct_answer": "A high-ranking government official",
+          "incorrect_answers": [
+            "A type of medical specialist",
+            "A professional chess player",
+            "An expert in ancient languages"
+          ]
+        },
+        {
+          "question": "The definition of reflects is:",
+          "correct_answer": "Throws back light or sound",
+          "incorrect_answers": [
+            "Absorbs heat energy",
+            "Generates electricity",
+            "Filters air particles"
+          ]
+        },
+        {
+          "question": "The definition of processes is:",
+          "correct_answer": "Series of actions or steps",
+          "incorrect_answers": [
+            "Types of chemical elements",
+            "Categories of plant species",
+            "Styles of classical music"
+          ]
+        },
+        {
+          "question": "The definition of upholding is:",
+          "correct_answer": "Maintaining or supporting",
+          "incorrect_answers": [
+            "Measuring the height of",
+            "Changing the color of",
+            "Calculating the weight of"
+          ]
+        },
+        {
+          "question": "The definition of traditional is:",
+          "correct_answer": "Following established customs",
+          "incorrect_answers": [
+            "Scientifically proven",
+            "Technologically advanced",
+            "Environmentally friendly"
+          ]
+        },
+        {
+          "question": "The definition of sprinkling is:",
+          "correct_answer": "Scattering in small drops",
+          "incorrect_answers": [
+            "Folding paper into shapes",
+            "Arranging flowers in a vase",
+            "Tuning a musical instrument"
+          ]
+        },
+        {
+          "question": "The definition of dangle is:",
+          "correct_answer": "To hang loosely and swing",
+          "incorrect_answers": [
+            "To solve a complex equation",
+            "To cook food at high heat",
+            "To measure wind speed"
+          ]
+        },
+        {
+          "question": "The definition of burglars is:",
+          "correct_answer": "People who break in to steal",
+          "incorrect_answers": [
+            "Expert mountain climbers",
+            "Professional cake decorators",
+            "Skilled bird watchers"
+          ]
+        },
+        {
+          "question": "The definition of munching is:",
+          "correct_answer": "Chewing steadily or casually",
+          "incorrect_answers": [
+            "Solving crossword puzzles",
+            "Painting watercolor landscapes",
+            "Knitting winter scarves"
+          ]
+        },
+        {
+          "question": "The definition of involuntary is:",
+          "correct_answer": "Done without conscious control",
+          "incorrect_answers": [
+            "Requiring special permission",
+            "Occurring only in dreams",
+            "Visible only under microscope"
+          ]
+        },
+        {
+          "question": "The definition of muzzle is:",
+          "correct_answer": "A device to prevent biting",
+          "incorrect_answers": [
+            "A tool for stargazing",
+            "A type of winter clothing",
+            "An ancient writing instrument"
+          ]
+        },
+        {
+          "question": "The definition of rigid is:",
+          "correct_answer": "Unable to bend or be forced",
+          "incorrect_answers": [
+            "Easy to fold or crease",
+            "Changing color in sunlight",
+            "Attracting metal objects"
+          ]
+        },
+        {
+          "question": "The definition of racket is:",
+          "correct_answer": "A loud, disturbing noise",
+          "incorrect_answers": [
+            "A type of tropical fruit",
+            "A method of fortune-telling",
+            "A style of formal dance"
+          ]
+        },
+        {
+          "question": "The definition of glide is:",
+          "correct_answer": "To move smoothly and effortlessly",
+          "incorrect_answers": [
+            "To solve difficult puzzles",
+            "To cook exotic dishes",
+            "To translate ancient texts"
+          ]
+        },
+        {
+          "question": "The definition of beware is:",
+          "correct_answer": "To be cautious and alert",
+          "incorrect_answers": [
+            "To predict future events",
+            "To change one's appearance",
+            "To measure air pressure"
+          ]
+        },{
+          "question": "The definition of alerts is:",
+          "correct_answer": "Warnings or notifications",
+          "incorrect_answers": [
+            "Colorful decorations",
+            "Musical instruments",
+            "Athletic competitions"
+          ]
+        },
+        {
+          "question": "The definition of infinity is:",
+          "correct_answer": "Endless or limitless space or time",
+          "incorrect_answers": [
+            "A specific number",
+            "A type of geometric shape",
+            "A mathematical equation"
+          ]
+        },
+        {
+          "question": "The definition of wildlife is:",
+          "correct_answer": "Animals living in nature",
+          "incorrect_answers": [
+            "Exotic house plants",
+            "Outdoor sporting events",
+            "Natural disasters"
+          ]
+        },
+        {
+          "question": "The definition of participates is:",
+          "correct_answer": "Takes part in an activity",
+          "incorrect_answers": [
+            "Avoids social gatherings",
+            "Creates artistic designs",
+            "Solves complex puzzles"
+          ]
+        },
+        {
+          "question": "The definition of preaches is:",
+          "correct_answer": "Delivers a religious sermon",
+          "incorrect_answers": [
+            "Practices medicine",
+            "Teaches mathematics",
+            "Conducts scientific experiments"
+          ]
+        },
+        {
+          "question": "The definition of occurrences is:",
+          "correct_answer": "Events that happen",
+          "incorrect_answers": [
+            "Mathematical formulas",
+            "Types of weather",
+            "Cooking techniques"
+          ]
+        },
+        {
+          "question": "The definition of lurch is:",
+          "correct_answer": "To move with a sudden jerk",
+          "incorrect_answers": [
+            "To sing loudly",
+            "To paint skillfully",
+            "To solve equations"
+          ]
+        },
+        {
+          "question": "The definition of ordinarily is:",
+          "correct_answer": "In a usual or normal way",
+          "incorrect_answers": [
+            "In an extraordinary manner",
+            "With great difficulty",
+            "At high speed"
+          ]
+        },
+        {
+          "question": "The definition of deposit is:",
+          "correct_answer": "To put or leave in a place",
+          "incorrect_answers": [
+            "To remove completely",
+            "To mix thoroughly",
+            "To analyze chemically"
+          ]
+        },
+        {
+          "question": "The definition of eventually is:",
+          "correct_answer": "In the end or finally",
+          "incorrect_answers": [
+            "Immediately",
+            "Rarely",
+            "Partially"
+          ]
+        },
+        {
+          "question": "The definition of authorized is:",
+          "correct_answer": "Given official permission",
+          "incorrect_answers": [
+            "Strictly forbidden",
+            "Scientifically proven",
+            "Artistically designed"
+          ]
+        },
+        {
+          "question": "The definition of yielding is:",
+          "correct_answer": "Giving way to pressure",
+          "incorrect_answers": [
+            "Resisting strongly",
+            "Growing rapidly",
+            "Calculating precisely"
+          ]
+        },
+        {
+          "question": "The definition of gracious is:",
+          "correct_answer": "Courteous and kind",
+          "incorrect_answers": [
+            "Rude and impolite",
+            "Extremely loud",
+            "Scientifically accurate"
+          ]
+        },
+        {
+          "question": "The definition of scrubbed is:",
+          "correct_answer": "Cleaned by rubbing hard",
+          "incorrect_answers": [
+            "Painted delicately",
+            "Arranged neatly",
+            "Calculated precisely"
+          ]
+        },
+        {
+          "question": "The definition of accomplishment is:",
+          "correct_answer": "Something successfully completed",
+          "incorrect_answers": [
+            "A type of musical instrument",
+            "A mathematical formula",
+            "A cooking technique"
+          ]
+        },
+        {
+          "question": "The definition of bonus is:",
+          "correct_answer": "An extra payment or benefit",
+          "incorrect_answers": [
+            "A type of punishment",
+            "A mathematical equation",
+            "A cooking ingredient"
+          ]
+        },
+        {
+          "question": "The definition of flaws is:",
+          "correct_answer": "Imperfections or defects",
+          "incorrect_answers": [
+            "Valuable treasures",
+            "Scientific theories",
+            "Musical compositions"
+          ]
+        },
+        {
+          "question": "The definition of willow is:",
+          "correct_answer": "A type of tree",
+          "incorrect_answers": [
+            "A mathematical concept",
+            "A cooking utensil",
+            "A musical instrument"
+          ]
+        },
+        {
+          "question": "The definition of complaints is:",
+          "correct_answer": "Expressions of dissatisfaction",
+          "incorrect_answers": [
+            "Positive feedback",
+            "Scientific observations",
+            "Artistic creations"
+          ]
+        },
+        {
+          "question": "The definition of investigated is:",
+          "correct_answer": "Examined or inquired into",
+          "incorrect_answers": [
+            "Ignored completely",
+            "Celebrated publicly",
+            "Cooked thoroughly"
+          ]
+        },
+        {
+          "question": "The definition of scholarly is:",
+          "correct_answer": "Involving or relating to serious study",
+          "incorrect_answers": [
+            "Extremely athletic",
+            "Highly entertaining",
+            "Financially lucrative"
+          ]
+        },
+        {
+          "question": "The definition of concealment is:",
+          "correct_answer": "The act of hiding",
+          "incorrect_answers": [
+            "Public display",
+            "Loud announcement",
+            "Scientific measurement"
+          ]
+        },
+        {
+          "question": "The definition of manuals is:",
+          "correct_answer": "Books of instructions",
+          "incorrect_answers": [
+            "Types of vehicles",
+            "Musical compositions",
+            "Ancient artifacts"
+          ]
+        },
+        {
+          "question": "The definition of enforces is:",
+          "correct_answer": "Compels observance of or compliance with",
+          "incorrect_answers": [
+            "Ignores completely",
+            "Celebrates enthusiastically",
+            "Cooks professionally"
+          ]
+        },
+        {
+          "question": "The definition of substitutes is:",
+          "correct_answer": "Persons or things acting in place of another",
+          "incorrect_answers": [
+            "Original components",
+            "Mathematical equations",
+            "Cooking ingredients"
+          ]
+        },
+        {
+          "question": "The definition of associated is:",
+          "correct_answer": "Connected or related",
+          "incorrect_answers": [
+            "Completely isolated",
+            "Scientifically proven",
+            "Artistically designed"
+          ]
+        },
+        {
+          "question": "The definition of vacuumed is:",
+          "correct_answer": "Cleaned with a vacuum cleaner",
+          "incorrect_answers": [
+            "Painted carefully",
+            "Cooked thoroughly",
+            "Measured precisely"
+          ]
+        },
+        {
+          "question": "The definition of assassinated is:",
+          "correct_answer": "Murdered for political reasons",
+          "incorrect_answers": [
+            "Elected to office",
+            "Promoted at work",
+            "Celebrated publicly"
+          ]
+        },
+        {
+          "question": "The definition of predictability is:",
+          "correct_answer": "The quality of being foreseeable",
+          "incorrect_answers": [
+            "Constant change",
+            "Artistic creativity",
+            "Scientific innovation"
+          ]
+        },
+        {
+          "question": "The definition of snobs is:",
+          "correct_answer": "People who believe they are superior to others",
+          "incorrect_answers": [
+            "Expert chefs",
+            "Professional athletes",
+            "Renowned scientists"
+          ]
+        },
+        {
+          "question": "The definition of slits is:",
+          "correct_answer": "Long, narrow cuts or openings",
+          "incorrect_answers": [
+            "Small round holes",
+            "Decorative patterns",
+            "Mathematical symbols"
+          ]
+        },
+        {
+          "question": "The definition of presumes is:",
+          "correct_answer": "Supposes or assumes something to be true",
+          "incorrect_answers": [
+            "Proves definitively",
+            "Rejects completely",
+            "Measures accurately"
+          ]
+        },
+        {
+          "question": "The definition of distinguished is:",
+          "correct_answer": "Marked by excellence or distinction",
+          "incorrect_answers": [
+            "Completely ordinary",
+            "Highly controversial",
+            "Scientifically inaccurate"
+          ]
+        },
+        {
+          "question": "The definition of dosage is:",
+          "correct_answer": "The amount of medicine to be taken",
+          "incorrect_answers": [
+            "A type of musical note",
+            "A cooking measurement",
+            "An athletic performance"
+          ]
+        },
+        {
+          "question": "The definition of envision is:",
+          "correct_answer": "To imagine or visualize",
+          "incorrect_answers": [
+            "To forget completely",
+            "To measure precisely",
+            "To cook thoroughly"
+          ]
+        },
+        {
+          "question": "The definition of broadcaster is:",
+          "correct_answer": "One who transmits programs by radio or television",
+          "incorrect_answers": [
+            "A professional athlete",
+            "A type of farmer",
+            "An expert chef"
+          ]
+        },
+        {
+          "question": "The definition of retirements is:",
+          "correct_answer": "Withdrawals from one's position or occupation",
+          "incorrect_answers": [
+            "New job appointments",
+            "Athletic competitions",
+            "Scientific discoveries"
+          ]
+        },
+        {
+          "question": "The definition of fatally is:",
+          "correct_answer": "Causing death",
+          "incorrect_answers": [
+            "Causing minor injury",
+            "Resulting in success",
+            "Leading to happiness"
+          ]
+        },
+        {
+          "question": "The definition of congress is:",
+          "correct_answer": "A formal meeting or assembly of representatives",
+          "incorrect_answers": [
+            "A type of musical performance",
+            "A scientific experiment",
+            "An athletic competition"
+          ]
+        },
+        {
+          "question": "The definition of malfunction is:",
+          "correct_answer": "Failure to function properly",
+          "incorrect_answers": [
+            "Perfect operation",
+            "Scheduled maintenance",
+            "Improved performance"
+          ]
+        },
+        {
+          "question": "The definition of lowdown is:",
+          "correct_answer": "The real facts or truth",
+          "incorrect_answers": [
+            "A type of music",
+            "A cooking technique",
+            "An athletic position"
+          ]
+        },
+        {
+          "question": "The definition of crate is:",
+          "correct_answer": "A large box for packing or shipping",
+          "incorrect_answers": [
+            "A small purse",
+            "A type of vehicle",
+            "A musical instrument"
+          ]
+        },
+        {
+          "question": "The definition of trudged is:",
+          "correct_answer": "Walked heavily or wearily",
+          "incorrect_answers": [
+            "Danced gracefully",
+            "Flew swiftly",
+            "Swam effortlessly"
+          ]
+        },
+        {
+          "question": "The definition of hilariously is:",
+          "correct_answer": "Extremely amusingly",
+          "incorrect_answers": [
+            "Very seriously",
+            "Quite sadly",
+            "Completely silently"
+          ]
+        },
+        {
+          "question": "The definition of immaturity is:",
+          "correct_answer": "Lack of full development or growth",
+          "incorrect_answers": [
+            "Advanced wisdom",
+            "Physical strength",
+            "Scientific knowledge"
+          ]
+        },
+        {
+          "question": "The definition of glaze is:",
+          "correct_answer": "A smooth, shiny coating",
+          "incorrect_answers": [
+            "A type of fabric",
+            "A musical technique",
+            "A mathematical formula"
+          ]
+        },
+        {
+          "question": "The definition of conceive is:",
+          "correct_answer": "To form or develop in the mind",
+          "incorrect_answers": [
+            "To forget completely",
+            "To cook thoroughly",
+            "To measure precisely"
+          ]
+        },
+        {
+          "question": "The definition of sued is:",
+          "correct_answer": "Instituted legal proceedings against",
+          "incorrect_answers": [
+            "Praised publicly",
+            "Cooked professionally",
+            "Studied scientifically"
+          ]
+        },
+        {
+          "question": "The definition of pluck is:",
+          "correct_answer": "To pull or pick off",
+          "incorrect_answers": [
+            "To plant firmly",
+            "To paint carefully",
+            "To calculate quickly"
+          ]
+        },
+        {
+          "question": "The definition of strife is:",
+          "correct_answer": "Bitter conflict or discord",
+          "incorrect_answers": [
+            "Perfect harmony",
+            "Peaceful cooperation",
+            "Joyful celebration"
+          ]
+        },
+        {
+          "question": "The definition of devalue is:",
+          "correct_answer": "To reduce or underestimate the worth of",
+          "incorrect_answers": [
+            "To increase in value",
+            "To measure accurately",
+            "To decorate beautifully"
+          ]
+        },
+        {
+          "question": "The definition of shaggy is:",
+          "correct_answer": "Having or covered with long, rough hair",
+          "incorrect_answers": [
+            "Completely bald",
+            "Neatly trimmed",
+            "Artificially colored"
+          ]
+        },
+        {
+          "question": "The definition of arguing is:",
+          "correct_answer": "Giving reasons for or against something",
+          "incorrect_answers": [
+            "Agreeing completely",
+            "Singing harmoniously",
+            "Dancing gracefully"
+          ]
+        },
+        {
+          "question": "The definition of materialism is:",
+          "correct_answer": "Preoccupation with material possessions",
+          "incorrect_answers": [
+            "Spiritual enlightenment",
+            "Scientific theory",
+            "Artistic expression"
+          ]
+        },
+        {
+          "question": "The definition of hampered is:",
+          "correct_answer": "Impeded or hindered",
+          "incorrect_answers": [
+            "Assisted greatly",
+            "Celebrated enthusiastically",
+            "Measured accurately"
+          ]
+        },
+        {
+          "question": "The definition of anticipating is:",
+          "correct_answer": "Expecting or looking ahead to",
+          "incorrect_answers": [
+            "Completely forgetting",
+            "Ignoring deliberately",
+            "Misunderstanding entirely"
+          ]
+        },
+        {
+          "question": "The definition of blundered is:",
+          "correct_answer": "Made a stupid or careless mistake",
+          "incorrect_answers": [
+            "Succeeded brilliantly",
+            "Calculated precisely",
+            "Painted masterfully"
+          ]
+        },
+        {
+          "question": "The definition of urns is:",
+          "correct_answer": "Vases used for storing the ashes of the dead",
+          "incorrect_answers": [
+            "Musical instruments",
+            "Cooking utensils",
+            "Scientific tools"
+          ]
+        },
+        {
+          "question": "The definition of discriminating is:",
+          "correct_answer": "Showing careful judgment or fine taste",
+          "incorrect_answers": [
+            "Acting unfairly",
+            "Behaving recklessly",
+            "Thinking illogically"
+          ]
+        },
+        {
+          "question": "The definition of procedural is:",
+          "correct_answer": "Relating to an established or official way of doing something",
+          "incorrect_answers": [
+            "Completely random",
+            "Highly artistic",
+            "Scientifically groundbreaking"
+          ]
+        },
+        {
+          "question": "The definition of canon is:",
+          "correct_answer": "A general law, rule, principle, or criterion",
+          "incorrect_answers": [
+            "A type of musical instrument",
+            "A cooking technique",
+            "A mathematical equation"
+          ]
+        },
+        {
+          "question": "The definition of flustered is:",
+          "correct_answer": "In a state of agitated confusion",
+          "incorrect_answers": [
+            "Completely calm",
+            "Highly organized",
+            "Scientifically precise"
+          ]
+        },
+        {
+          "question": "The definition of shortage is:",
+          "correct_answer": "A lack or scarcity of something",
+          "incorrect_answers": [
+            "An abundance",
+            "A celebration",
+            "A scientific discovery"
+          ]
+        },
+        {
+          "question": "The definition of overridden is:",
+          "correct_answer": "Rejected or ruled against",
+          "incorrect_answers": [
+            "Fully supported",
+            "Carefully maintained",
+            "Scientifically proven"
+          ]
+        },
+        {
+          "question": "The definition of deflate is:",
+          "correct_answer": "To reduce in size or importance",
+          "incorrect_answers": [
+            "To increase dramatically",
+            "To celebrate publicly",
+            "To analyze scientifically"
+          ]
+        },
+        {
+          "question": "The definition of coping is:",
+          "correct_answer": "Dealing effectively with something difficult",
+          "incorrect_answers": [
+            "Avoiding all problems",
+            "Celebrating success",
+            "Conducting experiments"
+          ]
+        },
+        {
+          "question": "The definition of ventilator is:",
+          "correct_answer": "A device for artificial respiration",
+          "incorrect_answers": [
+            "A cooking appliance",
+            "A musical instrument",
+            "A type of vehicle"
+          ]
+        },
+        {
+          "question": "The definition of displaces is:",
+          "correct_answer": "Moves or shifts from the usual place",
+          "incorrect_answers": [
+            "Keeps in the same position",
+            "Decorates beautifully",
+            "Analyzes scientifically"
+          ]
+        },
+        {
+          "question": "The definition of delegating is:",
+          "correct_answer": "Entrusting a task or responsibility to another person",
+          "incorrect_answers": [
+            "Doing everything oneself",
+            "Avoiding all responsibilities",
+            "Celebrating achievements"
+          ]
+        },
+        {
+          "question": "The definition of barnacle is:",
+          "correct_answer": "A type of marine crustacean",
+          "incorrect_answers": [
+            "A farm animal",
+            "A musical instrument",
+            "A cooking utensil"
+          ]
+        },
+        {
+          "question": "The definition of blotch is:",
+          "correct_answer": "A discolored or irregular patch",
+          "incorrect_answers": [
+            "A perfect circle",
+            "A straight line",
+            "A mathematical symbol"
+          ]
+        },
+        {
+          "question": "The definition of topnotch is:",
+          "correct_answer": "Of the highest quality",
+          "incorrect_answers": [
+            "Completely average",
+            "Below standard",
+            "Scientifically unproven"
+          ]
+        },
+        {
+          "question": "The definition of remorse is:",
+          "correct_answer": "Deep regret for wrongdoing",
+          "incorrect_answers": [
+            "Extreme happiness",
+            "Scientific curiosity",
+            "Artistic inspiration"
+          ]
+        },
+        {
+          "question": "The definition of python is:",
+          "correct_answer": "A large snake",
+          "incorrect_answers": [
+            "A type of bird",
+            "A musical instrument",
+            "A cooking technique"
+          ]
+        },
+        {
+          "question": "The definition of cult is:",
+          "correct_answer": "A system of religious veneration and devotion",
+          "incorrect_answers": [
+            "A scientific theory",
+            "A type of government",
+            "An economic system"
+          ]
+        },
+        {
+          "question": "The definition of gratify is:",
+          "correct_answer": "To give pleasure or satisfaction",
+          "incorrect_answers": [
+            "To cause disappointment",
+            "To create confusion",
+            "To increase difficulty"
+          ]
+        },
+        {
+          "question": "The definition of laurel is:",
+          "correct_answer": "An evergreen shrub or tree",
+          "incorrect_answers": [
+            "A type of musical note",
+            "A mathematical concept",
+            "A cooking ingredient"
+          ]
+        },
+        {
+          "question": "The definition of embracing is:",
+          "correct_answer": "Holding closely in one's arms",
+          "incorrect_answers": [
+            "Pushing away forcefully",
+            "Walking quickly past",
+            "Looking at from afar"
+          ]
+        },
+        {
+          "question": "The definition of enshroud is:",
+          "correct_answer": "To cover completely",
+          "incorrect_answers": [
+            "To expose fully",
+            "To analyze carefully",
+            "To celebrate openly"
+          ]
+        },
+        {
+          "question": "The definition of eludes is:",
+          "correct_answer": "Escapes understanding or grasp",
+          "incorrect_answers": [
+            "Explains clearly",
+            "Attracts attention",
+            "Solves completely"
+          ]
+        },
+        {
+          "question": "The definition of encircle is:",
+          "correct_answer": "To form a circle around",
+          "incorrect_answers": [
+            "To move in straight lines",
+            "To create sharp angles",
+            "To arrange randomly"
+          ]
+        },
+        {
+          "question": "The definition of staked is:",
+          "correct_answer": "Supported with stakes",
+          "incorrect_answers": [
+            "Removed entirely",
+            "Painted colorfully",
+            "Analyzed scientifically"
+          ]
+        },
+        {
+          "question": "The definition of arrogance is:",
+          "correct_answer": "Offensive display of superiority",
+          "incorrect_answers": [
+            "Extreme humility",
+            "Constant indecision",
+            "Complete neutrality"
+          ]
+        },
+        {
+          "question": "The definition of ellipse is:",
+          "correct_answer": "An oval shape",
+          "incorrect_answers": [
+            "A perfect circle",
+            "A straight line",
+            "A sharp angle"
+          ]
+        },
+        {
+          "question": "The definition of diverted is:",
+          "correct_answer": "Turned aside from a course",
+          "incorrect_answers": [
+            "Kept on track",
+            "Accelerated quickly",
+            "Stopped completely"
+          ]
+        },
+        {
+          "question": "The definition of tapestries is:",
+          "correct_answer": "Heavy decorated fabrics",
+          "incorrect_answers": [
+            "Light window curtains",
+            "Wooden floor coverings",
+            "Metal wall decorations"
+          ]
+        },
+        {
+          "question": "The definition of inauguration is:",
+          "correct_answer": "The formal admission to office",
+          "incorrect_answers": [
+            "The end of a term",
+            "A scientific discovery",
+            "An artistic performance"
+          ]
+        },
+        {
+          "question": "The definition of gadgetry is:",
+          "correct_answer": "Mechanical or electronic devices",
+          "incorrect_answers": [
+            "Ancient artifacts",
+            "Natural phenomena",
+            "Mathematical formulas"
+          ]
+        },
+        {
+          "question": "The definition of commended is:",
+          "correct_answer": "Praised or approved of",
+          "incorrect_answers": [
+            "Strongly criticized",
+            "Completely ignored",
+            "Scientifically analyzed"
+          ]
+        },
+        {
+          "question": "The definition of irritant is:",
+          "correct_answer": "Something that causes annoyance",
+          "incorrect_answers": [
+            "A soothing substance",
+            "A helpful tool",
+            "An entertaining object"
+          ]
+        },
+        {
+          "question": "The definition of deemed is:",
+          "correct_answer": "Regarded or considered in a specified way",
+          "incorrect_answers": [
+            "Physically measured",
+            "Artistically rendered",
+            "Legally documented"
+          ]
+        },
+        {
+          "question": "The definition of insanity is:",
+          "correct_answer": "Extreme foolishness or irrationality",
+          "incorrect_answers": [
+            "Mild eccentricity",
+            "Creative genius",
+            "Emotional sensitivity"
+          ]
+        },
+        {
+          "question": "The definition of slanderer is:",
+          "correct_answer": "One who makes false statements to damage reputation",
+          "incorrect_answers": [
+            "A skilled negotiator",
+            "A public relations expert",
+            "An investigative journalist"
+          ]
+        },
+        {
+          "question": "The definition of compliant is:",
+          "correct_answer": "Inclined to agree with others",
+          "incorrect_answers": [
+            "Consistently neutral",
+            "Independently minded",
+            "Analytically inclined"
+          ]
+        },
+        {
+          "question": "The definition of repentance is:",
+          "correct_answer": "The action of feeling regret for one's sins",
+          "incorrect_answers": [
+            "Pursuit of personal growth",
+            "Celebration of achievements",
+            "Reflection on past experiences"
+          ]
+        },
+        {
+          "question": "The definition of regenerate is:",
+          "correct_answer": "To regrow or be renewed",
+          "incorrect_answers": [
+            "To remain unchanged",
+            "To adapt gradually",
+            "To evolve naturally"
+          ]
+        },
+        {
+          "question": "The definition of serenely is:",
+          "correct_answer": "In a calm and peaceful manner",
+          "incorrect_answers": [
+            "With focused concentration",
+            "In a thoughtful way",
+            "With quiet determination"
+          ]
+        },
+        {
+          "question": "The definition of sage is:",
+          "correct_answer": "A profoundly wise person",
+          "incorrect_answers": [
+            "An enthusiastic learner",
+            "A skilled craftsman",
+            "A charismatic leader"
+          ]
+        },
+        {
+          "question": "The definition of premiere is:",
+          "correct_answer": "The first public performance",
+          "incorrect_answers": [
+            "An annual festival",
+            "A private rehearsal",
+            "A celebrity gathering"
+          ]
+        },
+        {
+          "question": "The definition of afflicted is:",
+          "correct_answer": "Affected by or suffering from a problem",
+          "incorrect_answers": [
+            "Mildly inconvenienced",
+            "Temporarily challenged",
+            "Occasionally troubled"
+          ]
+        },
+        {
+          "question": "The definition of impish is:",
+          "correct_answer": "Inclined to mischievous behavior",
+          "incorrect_answers": [
+            "Quietly observant",
+            "Casually indifferent",
+            "Occasionally playful"
+          ]
+        },
+        {
+          "question": "The definition of matron is:",
+          "correct_answer": "A married woman, typically middle-aged or elderly",
+          "incorrect_answers": [
+            "A young professional",
+            "A community leader",
+            "A family caregiver"
+          ]
+        },
+        {
+          "question": "The definition of endorsing is:",
+          "correct_answer": "Declaring one's public approval",
+          "incorrect_answers": [
+            "Offering constructive feedback",
+            "Providing expert analysis",
+            "Sharing personal experiences"
+          ]
+        },
+        {
+          "question": "The definition of stealth is:",
+          "correct_answer": "Cautious and surreptitious action",
+          "incorrect_answers": [
+            "Strategic planning",
+            "Efficient movement",
+            "Calculated risk-taking"
+          ]
+        },
+        {
+          "question": "The definition of aggressor is:",
+          "correct_answer": "A person who attacks first",
+          "incorrect_answers": [
+            "A strategic planner",
+            "A conflict mediator",
+            "A defense specialist"
+          ]
+        },
+        {
+          "question": "The definition of massacres is:",
+          "correct_answer": "Mass killings",
+          "incorrect_answers": [
+            "Large celebrations",
+            "Group dances",
+            "Team sports"
+          ]
+        },
+        {
+          "question": "The definition of doggedly is:",
+          "correct_answer": "With persistent determination",
+          "incorrect_answers": [
+            "With great hesitation",
+            "With complete indifference",
+            "With sudden bursts"
+          ]
+        },
+        {
+          "question": "The definition of interacts is:",
+          "correct_answer": "Acts upon each other",
+          "incorrect_answers": [
+            "Avoids contact",
+            "Remains separate",
+            "Moves independently"
+          ]
+        },
+        {
+          "question": "The definition of mauling is:",
+          "correct_answer": "Injuring by or as if by beating",
+          "incorrect_answers": [
+            "Gently caressing",
+            "Carefully examining",
+            "Skillfully repairing"
+          ]
+        },
+        {
+          "question": "The definition of canvass is:",
+          "correct_answer": "Solicit votes or opinions systematically",
+          "incorrect_answers": [
+            "Paint on a fabric surface",
+            "Organize a musical event",
+            "Conduct scientific research"
+          ]
+        },
+        {
+          "question": "The definition of lavishing is:",
+          "correct_answer": "Bestowing something in generous quantities",
+          "incorrect_answers": [
+            "Conserving resources carefully",
+            "Distributing evenly",
+            "Withholding unnecessarily"
+          ]
+        },
+        {
+          "question": "The definition of khaki is:",
+          "correct_answer": "A dull yellowish-brown color",
+          "incorrect_answers": [
+            "A bright neon shade",
+            "A deep ocean blue",
+            "A rich forest green"
+          ]
+        },
+        {
+          "question": "The definition of streamlined is:",
+          "correct_answer": "Designed or arranged to offer little resistance",
+          "incorrect_answers": [
+            "Intricately decorated",
+            "Highly complex",
+            "Randomly assembled"
+          ]
+        },
+        {
+          "question": "The definition of stimulations is:",
+          "correct_answer": "Actions that rouse or excite",
+          "incorrect_answers": [
+            "Calming techniques",
+            "Sleeping aids",
+            "Meditative practices"
+          ]
+        },
+        {
+          "question": "The definition of croak is:",
+          "correct_answer": "Make a harsh, hoarse sound",
+          "incorrect_answers": [
+            "Sing melodiously",
+            "Whisper softly",
+            "Speak eloquently"
+          ]
+        },
+        {
+          "question": "The definition of mutilation is:",
+          "correct_answer": "Infliction of severe damage",
+          "incorrect_answers": [
+            "Careful preservation",
+            "Gentle modification",
+            "Artistic enhancement"
+          ]
+        },
+        {
+          "question": "The definition of deteriorated is:",
+          "correct_answer": "Become progressively worse",
+          "incorrect_answers": [
+            "Gradually improved",
+            "Remained unchanged",
+            "Fluctuated randomly"
+          ]
+        },
+        {
+          "question": "The definition of sables is:",
+          "correct_answer": "Small carnivorous mammals",
+          "incorrect_answers": [
+            "Tropical fruit trees",
+            "Ancient sailing ships",
+            "Precious gemstones"
+          ]
+        },
+        {
+          "question": "The definition of incongruity is:",
+          "correct_answer": "Lack of harmony or compatibility",
+          "incorrect_answers": [
+            "Perfect alignment",
+            "Subtle similarity",
+            "Gradual transition"
+          ]
+        },
+        {
+          "question": "The definition of rationalist is:",
+          "correct_answer": "One who relies on reason",
+          "incorrect_answers": [
+            "An emotional thinker",
+            "An intuitive decision-maker",
+            "A superstitious believer"
+          ]
+        },
+        {
+          "question": "The definition of tunic is:",
+          "correct_answer": "A loose-fitting garment worn as a shirt",
+          "incorrect_answers": [
+            "A type of musical instrument",
+            "A specialized cooking utensil",
+            "A decorative wall hanging"
+          ]
+        },
+        {
+          "question": "The definition of evaluation is:",
+          "correct_answer": "Assessment of the value or quality",
+          "incorrect_answers": [
+            "Creation of artistic works",
+            "Organization of social events",
+            "Distribution of physical goods"
+          ]
+        },
+        {
+          "question": "The definition of eerie is:",
+          "correct_answer": "Strange and frightening",
+          "incorrect_answers": [
+            "Cheerful and bright",
+            "Ordinary and common",
+            "Energetic and lively"
+          ]
+        },
+        {
+          "question": "The definition of forensic is:",
+          "correct_answer": "Relating to the application of scientific methods",
+          "incorrect_answers": [
+            "Pertaining to ancient history",
+            "Connected to artistic expression",
+            "Associated with culinary techniques"
+          ]
+        },
+        {
+          "question": "The definition of disintegration is:",
+          "correct_answer": "The process of losing cohesion",
+          "incorrect_answers": [
+            "The act of building structures",
+            "The method of preserving materials",
+            "The technique of blending colors"
+          ]
+        },
+        {
+          "question": "The definition of hysteric is:",
+          "correct_answer": "Affected by uncontrolled extreme emotion",
+          "incorrect_answers": [
+            "Displaying remarkable calmness",
+            "Exhibiting great wisdom",
+            "Showing exceptional focus"
+          ]
+        },
+        {
+          "question": "The definition of sear is:",
+          "correct_answer": "To burn or scorch the surface",
+          "incorrect_answers": [
+            "To gently polish",
+            "To carefully paint",
+            "To slowly freeze"
+          ]
+        },
+        {
+          "question": "The definition of delectable is:",
+          "correct_answer": "Highly pleasing to the taste",
+          "incorrect_answers": [
+            "Visually striking",
+            "Musically harmonious",
+            "Mathematically precise"
+          ]
+        },
+        {
+          "question": "The definition of leavened is:",
+          "correct_answer": "Caused to rise by fermentation",
+          "incorrect_answers": [
+            "Pressed into thin sheets",
+            "Frozen at low temperatures",
+            "Dried under intense heat"
+          ]
+        },
+        {
+          "question": "The definition of phobic is:",
+          "correct_answer": "Having an extreme or irrational fear",
+          "incorrect_answers": [
+            "Showing great curiosity",
+            "Displaying unusual bravery",
+            "Exhibiting strong affection"
+          ]
+        },
+        {
+          "question": "The definition of cynics is:",
+          "correct_answer": "People who believe selfishness motivates human actions",
+          "incorrect_answers": [
+            "Individuals who trust easily",
+            "Persons with optimistic outlooks",
+            "Groups promoting social harmony"
+          ]
+        },
+        {
+          "question": "The definition of perjury is:",
+          "correct_answer": "The offense of willfully telling an untruth in court",
+          "incorrect_answers": [
+            "The act of solving complex puzzles",
+            "The process of refining precious metals",
+            "The practice of predicting weather patterns"
+          ]
+        },
+        {
+          "question": "The definition of palpable is:",
+          "correct_answer": "Able to be touched or felt",
+          "incorrect_answers": [
+            "Invisible to the naked eye",
+            "Detectable only by machines",
+            "Existing only in theory"
+          ]
+        },
+        {
+          "question": "The definition of splay is:",
+          "correct_answer": "To spread out or expand",
+          "incorrect_answers": [
+            "To condense or concentrate",
+            "To rotate or spin",
+            "To elevate or lift"
+          ]
+        },
+        {
+          "question": "The definition of brevity is:",
+          "correct_answer": "Concise and exact use of words",
+          "incorrect_answers": [
+            "Elaborate and detailed explanation",
+            "Poetic and flowery language",
+            "Technical and complex terminology"
+          ]
+        },
+        {
+          "question": "The definition of introspect is:",
+          "correct_answer": "To examine one's own thoughts and feelings",
+          "incorrect_answers": [
+            "To analyze external data",
+            "To observe natural phenomena",
+            "To study historical events"
+          ]
+        },
+        {
+          "question": "The definition of resumption is:",
+          "correct_answer": "The action of beginning something again after a pause",
+          "incorrect_answers": [
+            "The process of creating a summary",
+            "The act of changing one's career",
+            "The method of solving complex equations"
+          ]
+        },
+        {
+          "question": "The definition of denominational is:",
+          "correct_answer": "Relating to a religious denomination",
+          "incorrect_answers": [
+            "Pertaining to mathematical fractions",
+            "Associated with political parties",
+            "Connected to economic theories"
+          ]
+        },
+        {
+          "question": "The definition of sardonic is:",
+          "correct_answer": "Grimly mocking or cynical",
+          "incorrect_answers": [
+            "Excessively cheerful",
+            "Deeply philosophical",
+            "Highly technical"
+          ]
+        },
+        {
+          "question": "The definition of intertwine is:",
+          "correct_answer": "To twist or twine together",
+          "incorrect_answers": [
+            "To separate completely",
+            "To arrange in parallel lines",
+            "To stack vertically"
+          ]
+        },
+        {
+          "question": "The definition of catacomb is:",
+          "correct_answer": "An underground cemetery with tunnels and recesses",
+          "incorrect_answers": [
+            "A type of ancient weapon",
+            "A musical instrument",
+            "A tropical fruit"
+          ]
+        },
+        {
+          "question": "The definition of banal is:",
+          "correct_answer": "So lacking in originality as to be obvious and boring",
+          "incorrect_answers": [
+            "Highly complex and intricate",
+            "Extremely rare and valuable",
+            "Scientifically groundbreaking"
+          ]
+        },
+        {
+          "question": "The definition of metabolic is:",
+          "correct_answer": "Relating to the chemical processes within living organisms",
+          "incorrect_answers": [
+            "Pertaining to weather patterns",
+            "Associated with geological formations",
+            "Connected to astronomical phenomena"
+          ]
+        },
+        {
+          "question": "The definition of brusque is:",
+          "correct_answer": "Abrupt or offhand in speech or manner",
+          "incorrect_answers": [
+            "Extremely polite and formal",
+            "Highly detailed and thorough",
+            "Overly emotional and sensitive"
+          ]
+        },
+        {
+          "question": "The definition of sinus is:",
+          "correct_answer": "A cavity within a bone or other tissue",
+          "incorrect_answers": [
+            "A type of mathematical function",
+            "A rare species of plant",
+            "A traditional dance form"
+          ]
+        },
+        {
+          "question": "The definition of furlough is:",
+          "correct_answer": "Leave of absence, especially for military personnel",
+          "incorrect_answers": [
+            "A type of winter clothing",
+            "A method of food preservation",
+            "A style of architecture"
+          ]
+        },
+        {
+          "question": "The definition of conclave is:",
+          "correct_answer": "A private meeting, especially of Roman Catholic cardinals",
+          "incorrect_answers": [
+            "A public festival",
+            "A type of musical performance",
+            "A scientific conference"
+          ]
+        },
+        {
+          "question": "The definition of connoisseur is:",
+          "correct_answer": "An expert judge in matters of taste",
+          "incorrect_answers": [
+            "A professional athlete",
+            "A political strategist",
+            "A financial advisor"
+          ]
+        },
+        {
+          "question": "The definition of choreographer is:",
+          "correct_answer": "A person who composes the sequence of steps and moves for a dance",
+          "incorrect_answers": [
+            "A specialist in handwriting analysis",
+            "An expert in ancient languages",
+            "A designer of computer algorithms"
+          ]
+        },
+        {
+          "question": "The definition of inflections is:",
+          "correct_answer": "Changes in the form of a word to express tense, gender, number, etc.",
+          "incorrect_answers": [
+            "Variations in musical pitch",
+            "Fluctuations in stock prices",
+            "Alterations in chemical compositions"
+          ]
+        },
+        {
+          "question": "The definition of bogeymen is:",
+          "correct_answer": "Imaginary spirits frightening children",
+          "incorrect_answers": [
+            "Professional golfers scoring above par",
+            "Mythical swamp-dwelling forest creatures",
+            "Characters in Scandinavian folk tales"
+          ]
+        },
+        {
+          "question": "The definition of caustic is:",
+          "correct_answer": "Capable of burning organic tissue",
+          "incorrect_answers": [
+            "Related to sound wave studies",
+            "Ancient Roman architectural style",
+            "Atmospheric pressure measurement tool"
+          ]
+        },
+        {
+          "question": "The definition of spectral is:",
+          "correct_answer": "Resembling an apparition or ghost",
+          "incorrect_answers": [
+            "Subatomic particle behavior description",
+            "Plant species classification system",
+            "Study of celestial bodies"
+          ]
+        },
+        {
+          "question": "The definition of mimetic is:",
+          "correct_answer": "Characterized by imitation or copying",
+          "incorrect_answers": [
+            "Symmetric mathematical function type",
+            "Ancient manuscript preservation technique",
+            "Bird migration pattern study"
+          ]
+        },
+        {
+          "question": "The definition of miscreants is:",
+          "correct_answer": "Individuals behaving badly or illegally",
+          "incorrect_answers": [
+            "Microscopic organism classification experts",
+            "Alternative medicine practitioners",
+            "Rare postage stamp collectors"
+          ]
+        },
+        {
+          "question": "The definition of talisman is:",
+          "correct_answer": "Object believed to bring luck",
+          "incorrect_answers": [
+            "Ancient Greek stringed instrument",
+            "Deep-sea thermal vent mineral",
+            "Advanced cryptography mathematical formula"
+          ]
+        },
+        {
+          "question": "The definition of overtures is:",
+          "correct_answer": "Introductory proposals or suggestions",
+          "incorrect_answers": [
+            "Delicate surgical procedure tools",
+            "Baroque-style architectural features",
+            "Rare polar atmospheric phenomena"
+          ]
+        },
+        {
+          "question": "The definition of recompense is:",
+          "correct_answer": "Compensation for loss or harm",
+          "incorrect_answers": [
+            "Complex probability calculation method",
+            "Ancient artwork restoration process",
+            "Wildlife population study technique"
+          ]
+        },
+        {
+          "question": "The definition of eulogy is:",
+          "correct_answer": "Speech praising someone highly",
+          "incorrect_answers": [
+            "Formal philosophical argument type",
+            "Ancient artifact dating method",
+            "Quantum physics notation system"
+          ]
+        },
+        {
+          "question": "The definition of sleight is:",
+          "correct_answer": "Dexterity used to deceive",
+          "incorrect_answers": [
+            "Rare volcanic igneous rock",
+            "Nordic traditional storytelling form",
+            "Long-term weather prediction method"
+          ]
+        },
+        {
+          "question": "The definition of anon is:",
+          "correct_answer": "Soon or shortly",
+          "incorrect_answers": [
+            "Particle physics measurement unit",
+            "Secure communication encryption type",
+            "New star classification system"
+          ]
+        },
+        {
+          "question": "The definition of tannery is:",
+          "correct_answer": "Facility for making leather",
+          "incorrect_answers": [
+            "Specialized optical lens producer",
+            "Rare tropical plant greenhouse",
+            "Soil composition study laboratory"
+          ]
+        },
+        {
+          "question": "The definition of insurgence is:",
+          "correct_answer": "Act of rebellion against authority",
+          "incorrect_answers": [
+            "Marine organism population surge",
+            "Crystal growth rate acceleration",
+            "Volcanic seismic activity predictor"
+          ]
+        },
+        {
+          "question": "The definition of ambivalent is:",
+          "correct_answer": "Having mixed, contradictory feelings",
+          "incorrect_answers": [
+            "Multi-environment survival capability",
+            "Gemstone light refraction study",
+            "Molecular symmetry type"
+          ]
+        },
+        {
+          "question": "The definition of hyperbolic is:",
+          "correct_answer": "Exaggerated or overstated",
+          "incorrect_answers": [
+            "Polar glacier movement study",
+            "Rare tropical atmospheric condition",
+            "Ancient writing system analysis"
+          ]
+        },
+        {
+          "question": "The definition of nebulous is:",
+          "correct_answer": "Vague, unclear, or ill-defined",
+          "incorrect_answers": [
+            "Related to stellar formation",
+            "Ancient Greek philosophical concept",
+            "Rare atmospheric optical phenomenon"
+          ]
+        },
+        {
+          "question": "The definition of exorcise is:",
+          "correct_answer": "Drive out evil spirits",
+          "incorrect_answers": [
+            "Intense physical training regimen",
+            "Ancient meditation technique",
+            "Legal document authentication process"
+          ]
+        },
+        {
+          "question": "The definition of panders is:",
+          "correct_answer": "Caters to base desires",
+          "incorrect_answers": [
+            "Exotic bamboo-eating mammals",
+            "Medieval armor craftsmen",
+            "Rare tropical fruit varieties"
+          ]
+        },
+        {
+          "question": "The definition of imbibed is:",
+          "correct_answer": "Drank or absorbed",
+          "incorrect_answers": [
+            "Carefully studied ancient texts",
+            "Performed complex mathematical calculations",
+            "Created intricate artistic designs"
+          ]
+        },
+        {
+          "question": "The definition of edifice is:",
+          "correct_answer": "Large, imposing building",
+          "incorrect_answers": [
+            "Ancient Roman legal system",
+            "Specialized surgical instrument",
+            "Rare earth element"
+          ]
+        },
+        {
+          "question": "The definition of treble is:",
+          "correct_answer": "High-pitched sound or voice",
+          "incorrect_answers": [
+            "Triple amount or quantity",
+            "Medieval stringed instrument",
+            "Specialized fishing technique"
+          ]
+        },
+        {
+          "question": "The definition of inscrutable is:",
+          "correct_answer": "Impossible to understand or interpret",
+          "incorrect_answers": [
+            "Easily readable ancient script",
+            "Highly detailed topographical map",
+            "Transparent gemstone quality"
+          ]
+        },
+        {
+          "question": "The definition of divans is:",
+          "correct_answer": "Long, low sofas",
+          "incorrect_answers": [
+            "Ancient Persian poetry collections",
+            "Ornate Middle Eastern headwear",
+            "Traditional Turkish desserts"
+          ]
+        },
+        {
+          "question": "The definition of balkiness is:",
+          "correct_answer": "Stubborn or obstinate behavior",
+          "incorrect_answers": [
+            "Balkan peninsula geological feature",
+            "Medieval weapon crafting technique",
+            "Rare genetic trait"
+          ]
+        },
+        {
+          "question": "The definition of effervescent is:",
+          "correct_answer": "Bubbly or vivacious",
+          "incorrect_answers": [
+            "Rapidly evaporating liquid",
+            "Highly flammable substance",
+            "Bioluminescent marine organism"
+          ]
+        },
+        {
+          "question": "The definition of vesicular is:",
+          "correct_answer": "Containing small cavities or bubbles",
+          "incorrect_answers": [
+            "Related to blood vessels",
+            "Ancient Roman transportation system",
+            "Specialized botanical term"
+          ]
+        },
+        {
+          "question": "The definition of inundations is:",
+          "correct_answer": "Floods or overwhelming amounts",
+          "incorrect_answers": [
+            "Prolonged drought periods",
+            "Tectonic plate movements",
+            "Atmospheric pressure fluctuations"
+          ]
+        },
+        {
+          "question": "The definition of itinerant is:",
+          "correct_answer": "Traveling from place to place",
+          "incorrect_answers": [
+            "Permanently settled in one location",
+            "Highly skilled in navigation",
+            "Expert in local customs"
+          ]
+        },
+        {
+          "question": "The definition of tabernacles is:",
+          "correct_answer": "Portable places of worship",
+          "incorrect_answers": [
+            "Ancient astronomical instruments",
+            "Ornate storage containers",
+            "Medieval military fortifications"
+          ]
+        },
+        {
+          "question": "The definition of usury is:",
+          "correct_answer": "Lending money at high rates",
+          "incorrect_answers": [
+            "Ancient bartering system",
+            "Medieval tax collection method",
+            "Traditional banking practice"
+          ]
+        },
+        {
+          "question": "The definition of zeppelin is:",
+          "correct_answer": "Rigid airship",
+          "incorrect_answers": [
+            "Heavy metal band",
+            "German automobile manufacturer",
+            "World War II tank"
+          ]
+        },
+        {
+          "question": "The definition of nightingale is:",
+          "correct_answer": "Small songbird with melodious call",
+          "incorrect_answers": [
+            "Nocturnal flowering plant",
+            "Medieval astronomical instrument",
+            "Ancient Greek poetry style"
+          ]
+        },
+        {
+          "question": "The definition of pockmark is:",
+          "correct_answer": "Small pit or scar",
+          "incorrect_answers": [
+            "Rare coin collecting technique",
+            "Specialized geological survey tool",
+            "Traditional textile pattern"
+          ]
+        },
+        {
+          "question": "The definition of countermand is:",
+          "correct_answer": "Revoke a previous order",
+          "incorrect_answers": [
+            "Military strategic maneuver",
+            "Financial auditing procedure",
+            "Legal document verification process"
+          ]
+        },
+        {
+          "question": "The definition of syllogism is:",
+          "correct_answer": "Deductive reasoning form",
+          "incorrect_answers": [
+            "Ancient Greek educational system",
+            "Rare linguistic phenomenon",
+            "Botanical classification method"
+          ]
+        },
+        {
+          "question": "The definition of minutiae is:",
+          "correct_answer": "Precise or trivial details",
+          "incorrect_answers": [
+            "Tiny aquatic organisms",
+            "Ancient timekeeping devices",
+            "Microscopic paint pigments"
+          ]
+        },
+        {
+          "question": "The definition of archipelago is:",
+          "correct_answer": "Group of islands",
+          "incorrect_answers": [
+            "Ancient Greek city-state",
+            "Tropical fruit species",
+            "Volcanic rock formation"
+          ]
+        },
+        {
+          "question": "The definition of abacus is:",
+          "correct_answer": "Counting frame with beads",
+          "incorrect_answers": [
+            "Ancient Roman architectural element",
+            "Medieval musical instrument",
+            "Early navigation tool"
+          ]
+        },
+        {
+          "question": "The definition of olfactory is:",
+          "correct_answer": "Related to sense of smell",
+          "incorrect_answers": [
+            "Pertaining to visual perception",
+            "Auditory processing system",
+            "Tactile sensation study"
+          ]
+        },
+        {
+          "question": "The definition of viscount is:",
+          "correct_answer": "British nobleman rank",
+          "incorrect_answers": [
+            "Medieval military commander",
+            "Ancient Roman magistrate",
+            "Feudal land ownership title"
+          ]
+        },
+        {
+          "question": "The definition of epistles is:",
+          "correct_answer": "Formal or didactic letters",
+          "incorrect_answers": [
+            "Ancient Greek poetry form",
+            "Medieval philosophical treatises",
+            "Religious ceremonial objects"
+          ]
+        },
+        {
+          "question": "The definition of ignominious is:",
+          "correct_answer": "Deserving or causing shame",
+          "incorrect_answers": [
+            "Highly prestigious or honored",
+            "Scientifically significant discovery",
+            "Artistically innovative technique"
+          ]
+        },
+        {
+          "question": "The definition of orthographies is:",
+          "correct_answer": "Conventional spelling systems",
+          "incorrect_answers": [
+            "Bone structure studies",
+            "Architectural drawing techniques",
+            "Ancient map-making methods"
+          ]
+        },
+        {
+          "question": "The definition of slalom is:",
+          "correct_answer": "Zigzag skiing course",
+          "incorrect_answers": [
+            "Traditional Nordic dance",
+            "Ancient Celtic ritual",
+            "Medieval archery technique"
+          ]
+        },
+        {
+          "question": "The definition of phoneme is:",
+          "correct_answer": "Distinct unit of sound",
+          "incorrect_answers": [
+            "Musical notation symbol",
+            "Linguistic writing system",
+            "Speech therapy technique"
+          ]
+        },
+        {
+          "question": "The definition of disremember is:",
+          "correct_answer": "Fail to remember; forget",
+          "incorrect_answers": [
+            "Intentionally ignore information",
+            "Reverse a decision",
+            "Disconnect electronic memory"
+          ]
+        },
+        {
+          "question": "The definition of percolator is:",
+          "correct_answer": "Coffee-brewing pot",
+          "incorrect_answers": [
+            "Soil filtration device",
+            "Chemical distillation apparatus",
+            "Ancient water clock"
+          ]
+        },
+        {
+          "question": "The definition of kleptomaniac is:",
+          "correct_answer": "Compulsive thief",
+          "incorrect_answers": [
+            "Rare coin collector",
+            "Skilled locksmith",
+            "Obsessive organizer"
+          ]
+        },
+        {
+          "question": "The definition of consternate is:",
+          "correct_answer": "Fill with anxiety",
+          "incorrect_answers": [
+            "Arrange in constellations",
+            "Decorate elaborately",
+            "Preserve with salt"
+          ]
+        }
+      ]
+    }
